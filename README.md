@@ -25,13 +25,27 @@
 
 Feel free to explore and connect. Let's build something amazing together! 💻✨
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ---
+
+<br>
+<br>
+
 
 ## My Cursus at 42 School - Lausanne
 
 - [Common Core](https://github.com/aceyzz/42-Cursus)
 - [Piscine - C Bootcamp](https://github.com/aceyzz/42-Piscine)
 - [Exams 42](https://github.com/aceyzz/42-Exam)
+
+<br>
+<br>
+
 
 ---
 
