@@ -1,7 +1,6 @@
 <img src="git_utils/Aceyzz.png" alt="logo" style="width: 100%">
 
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/aceyzz/count.svg" />
 </p>
 
