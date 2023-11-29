@@ -35,15 +35,36 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
 
 ## My Cursus at 42 School - Lausanne
 
-- [Common Core](https://github.com/aceyzz/42-Cursus)
-- [Piscine - C Bootcamp](https://github.com/aceyzz/42-Piscine)
-- [Exams 42](https://github.com/aceyzz/42-Exam)
+
+<p align="center">
+  <table style="width: 75%; margin-left: auto; margin-right: auto;">
+    <tr>
+      <td style="width: 33%; text-align: center;" align="center">
+        <a href="https://github.com/aceyzz/42-Cursus">
+          <img src="./git_utils/42_cursus.png" alt="42 Cursus" width="80%">
+        </a>
+      </td>
+      <td style="width: 33%; text-align: center;" align="center">
+        <a href="https://github.com/aceyzz/42-Piscine">
+          <img src="./git_utils/42_piscine.png" alt="42 Piscine" width="80%">
+        </a>
+      </td>
+      <td style="width: 33%; text-align: center;" align="center">
+        <a href="https://github.com/aceyzz/42-Exam">
+          <img src="./git_utils/42_exam.png" alt="42 Exam" width="80%">
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+</p>
 
 ---
 
 <div align="center" style="display: flex; justify-content: center;">
 
-[![cedmulle's 42 stats](https://badge.mediaplus.ma/greenbinary/cedmulle?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![cedmulle's 42 stats](https://badge.mediaplus.ma/starryblue/cedmulle?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 </div>
 
@@ -52,7 +73,7 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aceyzz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aceyzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aceyzz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aceyzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
