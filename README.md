@@ -6,6 +6,13 @@
 
 <br>
 
+<div align="center">
+<a href="https://www.instagram.com/acz.xvi/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+<a href="https://www.twitch.tv/aceyzz"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
+<a href="https://discord.gg/aceyzi"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+<a href="https://www.linkedin.com/in/cédric-muller-a6787127b"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+</div>
+
 ---
 
 # Hello there !
@@ -24,17 +31,7 @@
 
 Feel free to explore and connect. Let's build something amazing together! 💻✨
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ---
-
-<br>
-<br>
-
 
 ## My Cursus at 42 School - Lausanne
 
@@ -42,38 +39,15 @@ Feel free to explore and connect. Let's build something amazing together! 💻�
 - [Piscine - C Bootcamp](https://github.com/aceyzz/42-Piscine)
 - [Exams 42](https://github.com/aceyzz/42-Exam)
 
-<br>
-<br>
-
-
 ---
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: center;">
 
 [![cedmulle's 42 stats](https://badge.mediaplus.ma/greenbinary/cedmulle?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 </div>
 
-<br>
-<br>
-<br>
-<br>
-
-
 ---
-
-<br>
-<br>
-<br>
-<br>
-
 
 ###
 
@@ -82,25 +56,3 @@ Feel free to explore and connect. Let's build something amazing together! 💻�
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aceyzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<br>
-<br>
-<br>
-<br>
-
-
----
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-###
-
-<div align="center">
-<a href="https://www.instagram.com/acz.xvi/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-<a href="https://www.twitch.tv/aceyzz"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
-<a href="https://discord.gg/aceyzi"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-<a href="https://www.linkedin.com/in/cédric-muller-a6787127b"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div>
