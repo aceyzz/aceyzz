@@ -64,14 +64,14 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
 
 <div align="center" style="display: flex; justify-content: center;">
 
-[![cedmulle's 42 stats](https://badge.mediaplus.ma/starryblue/cedmulle?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![cedmulle's 42 stats](https://badge.mediaplus.ma/binary/cedmulle?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 </div>
 
 ---
 <div align="center" style="display: flex; justify-content: center;">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aceyzz&theme=monokai&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=530)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aceyzz&theme=algolia&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=530)](https://git.io/streak-stats)
 
 </div>
 
