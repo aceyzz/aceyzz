@@ -33,7 +33,7 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
 
 ---
 
-## My Cursus at 42 School - Lausanne
+## Cursus at 42 School - Lausanne
 
 
 <p align="center">
