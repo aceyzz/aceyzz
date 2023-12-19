@@ -1,5 +1,5 @@
 <img src="git_utils/banner.png" alt="logo" style="width: 100%">
-<img src="git_utils/aceyzz.png" alt="logo" style="width: 100%">
+<img src="git_utils/Aceyzz.png" alt="logo" style="width: 100%">
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/aceyzz/count.svg"/>
