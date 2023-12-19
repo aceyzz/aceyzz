@@ -1,7 +1,8 @@
-<img src="git_utils/animated_logo.gif" alt="logo" style="width: 100%">
+<img src="git_utils/banner.png" alt="logo" style="width: 100%">
+<img src="git_utils/aceyzz.png" alt="logo" style="width: 100%">
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/aceyzz/count.svg" />
+  <img src="https://profile-counter.glitch.me/aceyzz/count.svg"/>
 </p>
 
 <br>
@@ -41,17 +42,17 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
     <tr>
       <td style="width: 33%; text-align: center;" align="center">
         <a href="https://github.com/aceyzz/42-Cursus">
-          <img src="./git_utils/42_cursus.png" alt="42 Cursus" width="80%">
+          <img src="./git_utils/CURSUS.png" alt="42 Cursus" width="150%">
         </a>
       </td>
       <td style="width: 33%; text-align: center;" align="center">
         <a href="https://github.com/aceyzz/42-Piscine">
-          <img src="./git_utils/42_piscine.png" alt="42 Piscine" width="80%">
+          <img src="./git_utils/PISCINE.png" alt="42 Piscine" width="150%">
         </a>
       </td>
       <td style="width: 33%; text-align: center;" align="center">
         <a href="https://github.com/aceyzz/42-Exam">
-          <img src="./git_utils/42_exam.png" alt="42 Exam" width="80%">
+          <img src="./git_utils/EXAMS.png" alt="42 Exam" width="150%">
         </a>
       </td>
     </tr>
@@ -61,6 +62,8 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
 </p>
 
 ---
+
+<br>
 
 <div align="center" style="display: flex; justify-content: center;">
 
