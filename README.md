@@ -32,7 +32,11 @@
 
 Feel free to explore and connect. Let's build something amazing together! 💻✨
 
+<br>
+
 ---
+
+<br>
 
 ## Cursus at 42 School - Lausanne
 
@@ -56,23 +60,28 @@ Feel free to explore and connect. Let's build something amazing together! 💻�
         </a>
       </td>
     </tr>
+    <td style="text-align: center;" align="center" colspan="3" margin-left: auto; margin-right: auto; border-collapse: auto;>
+      <a href="https://github.com/oakoudad/badge42">
+        <img src="https://badge.mediaplus.ma/binary/cedmulle?1337Badge=off&UM6P=off" alt="Badge 42" width="61%">
+      </a>
+        <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="gif" width="37.2%" align="right">
+    </td>
   </table>
 </p>
 
-</p>
+<br>
 
 ---
 
 <br>
 
+## Github Stats
+
 <div align="center" style="display: flex; justify-content: center;">
 
-[![cedmulle's 42 stats](https://badge.mediaplus.ma/binary/cedmulle?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aceyzz&theme=arctic)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
-
----
-<div align="center" style="display: flex; justify-content: center;">
+<br>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aceyzz&theme=algolia&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=530)](https://git.io/streak-stats)
 
