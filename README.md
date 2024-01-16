@@ -18,6 +18,10 @@
 
 # Hello there !
 
+<div align="center">
+
+<br>
+
 👋 Hello, I'm Cedric.
 
 🚀 Currently immersed in the dynamic world of technology, I'm a passionate learner and enthusiast of all things tech-related.
@@ -31,6 +35,7 @@
 🛠️ My goal on GitHub is to share the fruits of my exploration and showcase the projects I'm passionate about.
 
 Feel free to explore and connect. Let's build something amazing together! 💻✨
+</div>
 
 <br>
 
