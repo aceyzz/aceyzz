@@ -28,8 +28,6 @@
 
 💡 With a knack for quick learning, adaptability, and resilience under pressure, I thrive in dynamic environments.
 
-🌐 My interests lie in web development and design, where I explore the nuances of various web languages and indulge in creative pursuits using Adobe tools.
-
 🛠️ My goal on GitHub is to share the fruits of my exploration and showcase the projects I'm passionate about.
 
 Feel free to explore and connect. Let's build something amazing together! 💻✨
