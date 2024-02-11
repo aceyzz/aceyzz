@@ -73,7 +73,7 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
 </p>
 
 <div align="center">
-	<img src="./git_utils/blackhole.png" alt="Black_hole" width="75%">
+	<img src="./git_utils/blackhole.png" alt="Black_hole" width="100%">
 </div>
 
 <br>
