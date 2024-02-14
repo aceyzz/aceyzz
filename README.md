@@ -71,7 +71,7 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
 </p>
 
 <div align="center">
-	<img src="./git_utils/blackhole.png" alt="Black_hole" width="100%">
+	<a href="https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2"><img src="./git_utils/blackhole.png" alt="Black_hole" width="100%"></a>
 </div>
 
 <br>
