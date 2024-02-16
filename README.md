@@ -63,9 +63,9 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
     </tr>
     <td style="text-align: center;" align="center" colspan="3" margin-left: auto; margin-right: auto; border-collapse: auto;>
       <a href="https://github.com/oakoudad/badge42">
-        <img src="https://badge.mediaplus.ma/darkblue/cedmulle?1337Badge=off&UM6P=off" alt="Badge 42" width="60%">
+        <img src="https://badge.mediaplus.ma/darkblue/cedmulle?1337Badge=off&UM6P=off" alt="Badge 42" width="59%">
       </a>
-        <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="gif" width="37.2%" align="right">
+        <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="gif" width="36.2%" align="right">
     </td>
   </table>
 </p>
