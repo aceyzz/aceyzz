@@ -62,10 +62,10 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
       </td>
     </tr>
     <td style="text-align: center;" align="center" colspan="3" margin-left: auto; margin-right: auto; border-collapse: auto;>
-      <a href="https://github.com/oakoudad/badge42">
-        <img src="https://badge.mediaplus.ma/darkblue/cedmulle?1337Badge=off&UM6P=off" alt="Badge 42" width="59%">
+      <a href="https://profile.intra.42.fr/users/cedmulle">
+        <img src="git_utils/student_card.png" alt="Badge 42" width="60%">
       </a>
-        <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="gif" width="36.2%" align="right">
+        <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="gif" width="34%" align="right">
     </td>
   </table>
 </p>
