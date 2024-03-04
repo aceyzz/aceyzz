@@ -14,6 +14,12 @@
 
 <br>
 
+<div align="center">
+ᴅᴀʀᴋ ᴍᴏᴅᴇ ᴘʟᴇᴀꜱᴇ
+</div>
+
+<br>
+
 ---
 
 <br>
