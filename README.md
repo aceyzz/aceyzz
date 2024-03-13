@@ -51,7 +51,6 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
 
 ## Cursus at 42 School - Lausanne
 
-
 <p align="center">
   <table style="width: 75%; margin-left: auto; margin-right: auto;">
     <tr>
