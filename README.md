@@ -70,34 +70,21 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
 <p align="center">
   <table style="width: 75%; margin-left: auto; margin-right: auto;">
     <tr>
-      <td style="width: 33%; text-align: center;" align="center">
-        <a href="https://github.com/aceyzz/42-Cursus">
-          <img src="./git_utils/CURSUS.png" alt="42 Cursus" width="150%">
-        </a>
-      </td>
-      <td style="width: 33%; text-align: center;" align="center">
-        <a href="https://github.com/aceyzz/42-Piscine">
-          <img src="./git_utils/PISCINE.png" alt="42 Piscine" width="150%">
-        </a>
-      </td>
-      <td style="width: 33%; text-align: center;" align="center">
-        <a href="https://github.com/aceyzz/42-Exam">
-          <img src="./git_utils/EXAMS.png" alt="42 Exam" width="150%">
-        </a>
+      <td style="width: 100%">
+        <a href="https://github.com/aceyzz/42-Cursus"><img src="./git_utils/CURSUS.png" alt="42 Cursus" width="33.05%"></a>
+        <a href="https://github.com/aceyzz/42-Piscine"><img src="./git_utils/PISCINE.png" alt="42 Piscine" width="33.05%"></a>
+        <a href="https://github.com/aceyzz/42-Exam"><img src="./git_utils/EXAMS.png" alt="42 Exam" width="33.05%"></a>
       </td>
     </tr>
     <td style="text-align: center;" align="center" colspan="3" margin-left: auto; margin-right: auto; border-collapse: auto;>
-      <a href="https://profile.intra.42.fr/users/cedmulle">
-        <img src="git_utils/student_card.png" alt="Badge 42" width="66.5%">
-      </a>
-        <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="gif" width="33.2%" align="right">
+      <a href="https://profile.intra.42.fr/users/cedmulle"><img src="git_utils/student_card.png" alt="Badge 42" width="66.5%"></a>
+	<img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="gif" width="33.2%" align="right">
     </td>
 	<tr>
 	<td style="text-align: center;" align="center" colspan="3" margin-left: auto; margin-right: auto; border-collapse: auto;>
-      <a href="https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2"><img src="./git_utils/blackhole.png" alt="Black_hole" width="100%">
+     	 <a href="https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2"><img src="./git_utils/blackhole.png" alt="Black_hole" width="100%">
       </td>
       </tr>
-
   </table>
 </p>
 
