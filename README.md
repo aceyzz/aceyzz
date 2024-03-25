@@ -65,6 +65,14 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
 
 <br>
 
+<a><img src="./git_utils/binary.gif" alt="binary" width="100%"></a>
+
+<br>
+
+---
+
+<br>
+
 ## Cursus at 42 School - Lausanne
 
 <p align="center">
