@@ -113,7 +113,7 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
   <tr>
     <td width="24%"><a href="https://rain365.itch.io/brick-wall"><img src="https://img.itch.zone/aW1nLzE1NTA4NTc1LnBuZw==/315x250%23c/9jWOKJ.png" width="100%" alt="Brick Wall"></a></td>
     <td width="24%"><a href="https://upsijam.ch/"><img src="https://upsijam.ch/wp-content/uploads/2023/12/Logo-4.0-v2_zoom_v1.png" width="100%" alt="upsijam.ch"></a></td>
-    <td width="24%" align="center">Theme: <strong>CONFINED</strong><br>Game: <strong>BrickWall</strong><br>Result: <strong>15/24</strong><br>Started: <strong>22-04-24</strong><br>Ended: <strong>24-04-24</strong></td>
+    <td width="24%" align="center">Theme: <strong>CONFINED</strong><br>Game: <strong>BrickWall</strong><br>Result: <strong>15/24</strong><br>Started: <strong>22-03-24</strong><br>Ended: <strong>24-03-24</strong></td>
     <td width="24%" align="center">Authors:<br>- <a href="https://github.com/Rain36522">Rain36522</a><br>- <a href="https://github.com/alde-oli">alde-oli</a><br>- <a href="https://github.com/DavePie">DavePie</a><br>- <a href="https://github.com/aceyzz">aceyzz</a></td>
   </tr>
 </table>
