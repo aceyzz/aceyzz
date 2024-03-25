@@ -88,9 +88,9 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
     </tr>
     <td style="text-align: center;" align="center" colspan="3" margin-left: auto; margin-right: auto; border-collapse: auto;>
       <a href="https://profile.intra.42.fr/users/cedmulle">
-        <img src="git_utils/student_card.png" alt="Badge 42" width="60%">
+        <img src="git_utils/student_card.png" alt="Badge 42" width="66.5%">
       </a>
-        <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="gif" width="34%" align="right">
+        <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="gif" width="33.2%" align="right">
     </td>
 	<tr>
 	<td style="text-align: center;" align="center" colspan="3" margin-left: auto; margin-right: auto; border-collapse: auto;>
