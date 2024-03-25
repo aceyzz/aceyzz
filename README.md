@@ -92,12 +92,14 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
       </a>
         <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="gif" width="34%" align="right">
     </td>
+	<tr>
+	<td style="text-align: center;" align="center" colspan="3" margin-left: auto; margin-right: auto; border-collapse: auto;>
+      <a href="https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2"><img src="./git_utils/blackhole.png" alt="Black_hole" width="100%">
+      </td>
+      </tr>
+
   </table>
 </p>
-
-<div align="center">
-	<a href="https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2"><img src="./git_utils/blackhole.png" alt="Black_hole" width="100%"></a>
-</div>
 
 <br>
 
@@ -134,5 +136,6 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
 
 </div>
 
+<br>
 
 ---
