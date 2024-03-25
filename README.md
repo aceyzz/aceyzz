@@ -24,6 +24,22 @@
 
 <br>
 
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,html,css,js,react,docker,git,github,godot,mysql,ps,py" />
+	  <br><br>
+  </a>
+  <a>
+    <img src="https://skillicons.dev/icons?i=apple,kali,linux,windows,vscode,vim" />
+  </a>
+</p>
+
+<br>
+
+---
+
+<br>
+
 # Hello there !
 
 <div align="center">
@@ -93,11 +109,11 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
 
 <div align="center" style="display: flex; justify-content: center;">
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aceyzz&theme=arctic)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aceyzz&theme=arctic)])
 
 <br>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aceyzz&theme=algolia&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=530)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aceyzz&theme=algolia&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=530)
 
 </div>
 
