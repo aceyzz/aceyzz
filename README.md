@@ -79,9 +79,9 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
   <table style="width: 75%; margin-left: auto; margin-right: auto;">
     <tr>
       <td style="width: 100%">
-        <a href="https://github.com/aceyzz/42-Cursus"><img src="./git_utils/CURSUS.png" alt="42 Cursus" width="33.05%"></a>
-        <a href="https://github.com/aceyzz/42-Piscine"><img src="./git_utils/PISCINE.png" alt="42 Piscine" width="33.05%"></a>
-        <a href="https://github.com/aceyzz/42-Exam"><img src="./git_utils/EXAMS.png" alt="42 Exam" width="33.05%"></a>
+        <a href="https://github.com/aceyzz/42-Cursus"><img src="./git_utils/CURSUS.png" alt="42 Cursus" width="33%"></a>
+        <a href="https://github.com/aceyzz/42-Piscine"><img src="./git_utils/PISCINE.png" alt="42 Piscine" width="33%"></a>
+        <a href="https://github.com/aceyzz/42-Exam"><img src="./git_utils/EXAMS.png" alt="42 Exam" width="33%"></a>
       </td>
     </tr>
     <td style="text-align: center;" align="center" colspan="3" margin-left: auto; margin-right: auto; border-collapse: auto;>
