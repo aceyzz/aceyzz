@@ -129,7 +129,7 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
 
 <div align="center" style="display: flex; justify-content: center;">
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aceyzz&theme=arctic)])
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aceyzz&theme=arctic)
 
 <br>
   
