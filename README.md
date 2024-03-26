@@ -88,9 +88,11 @@ Feel free to explore and connect. Let's build something amazing together! ðŸ’»âœ
         <a href="https://github.com/aceyzz/42-Exam"><img src="./git_utils/EXAMS.png" alt="42 Exam" width="100%"></a>
       </td>
     </tr>
-    <td style="text-align: center;" align="center" colspan="3" margin-left: auto; margin-right: auto; border-collapse: auto;>
-      <a href="https://profile.intra.42.fr/users/cedmulle"><img src="git_utils/student_card.png" alt="Badge 42" width="66.5%"></a>
-	<img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="gif" width="33.2%" align="right">
+    <td style="text-align: center;" align="center" colspan="2" margin-left: auto; margin-right: auto; border-collapse: auto;>
+      <a href="https://profile.intra.42.fr/users/cedmulle"><img src="git_utils/student_card.png" alt="Badge 42" width="100%"></a>
+      </td>
+      <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
+    	<img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="gif" width="100%">
     </td>
 	<tr>
 	<td style="text-align: center;" align="center" colspan="3" margin-left: auto; margin-right: auto; border-collapse: auto;>
