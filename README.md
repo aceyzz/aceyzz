@@ -20,25 +20,6 @@
 
 <br>
 
----
-
-<br>
-
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=aws,azure,bash,bootstrap,cmake,c,cpp,html,css,js,react,docker,git,github,godot,mysql,ps,py" />
-	  <br><br>
-  </a>
-  <a>
-    <img src="https://skillicons.dev/icons?i=arch,apple,debian,kali,linux,ubuntu,windows,vscode,vim,sublime" />
-  </a>
-</p>
-
-<br>
-
----
-
-<br>
 
 # Hello there !
 
@@ -46,22 +27,19 @@
 
 <br>
 
-👋 Hello, I'm Cedric.
-
 🚀 Currently immersed in the dynamic world of technology, I'm a passionate learner and enthusiast of all things tech-related.
 
-🎓 I'm currently a student at 42 Lausanne School since October 2023, where I'm actively working on diverse projects that challenge and expand my programming skills.
+🎓 I graduated from 42 Lausanne School in October 2024. Currently, I am continuing to specialize in my field. I hold two Microsoft Azure certifications in Cloud and Data. My journey is driven by a passion for technology and a commitment to continuous learning and growth.
+
+💼 I'm currently working full-time as an IT Engineer.
 
 💡 With a knack for quick learning, adaptability, and resilience under pressure, I thrive in dynamic environments.
 
 🛠️ My goal on GitHub is to share the fruits of my exploration and showcase the projects I'm passionate about.
 
-Feel free to explore and connect. Let's build something amazing together! 💻✨
+💻✨Feel free to explore and connect. Let's build something amazing together!
+
 </div>
-
-<br>
-
----
 
 <br>
 
@@ -69,11 +47,34 @@ Feel free to explore and connect. Let's build something amazing together! 💻�
 
 <br>
 
----
+<div align="center">
+	<h3>Technologies & Tools</h3>
+	<br>
+	<table>
+		<tr>
+			<td align="center"><img src="https://skillicons.dev/icons?i=arch,apple,debian,kali,linux,ubuntu,windows"alt="Operating Systems">
+			<img src="https://skillicons.dev/icons?i=vscode,vim,sublime,ps&perline=4" alt="Tools">
+			<img src="https://skillicons.dev/icons?i=bash,mysql" alt="Other Technologies"></td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td align="center"><img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github" alt="Technologies">
+			<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Web Development" />
+			<img src="https://skillicons.dev/icons?i=c,cpp,py,cmake" alt="Software Development" /></td>
+		</tr>
+	</table>
+</div>
 
 <br>
 
-## Cursus at 42 School - Lausanne
+## Github Profile Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=aceyzz&title=MultiLanguage,Commits,Repositories,Followers,Experience&theme=algolia&no-bg=true&no-frame=true)
+
+<br>
+
+## Cursus at 42 Lausanne School
 
 <p align="center">
   <table style="width: 75%; margin-left: auto; margin-right: auto;">
@@ -87,16 +88,43 @@ Feel free to explore and connect. Let's build something amazing together! 💻�
         <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
         <a href="https://github.com/aceyzz/42-Exam"><img src="./git_utils/EXAMS.png" alt="42 Exam" width="100%"></a>
       </td>
+	  <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
+        <a href="https://github.com/aceyzz/42-Specs"><img src="./git_utils/SPECS.png" alt="42 Exam" width="100%"></a>
+      </td>
     </tr>
     <td style="text-align: center;" align="center" colspan="2" margin-left: auto; margin-right: auto; border-collapse: auto;>
-      <a href="https://profile.intra.42.fr/users/cedmulle"><img src="git_utils/student_card.png" alt="Badge 42" width="100%"></a>
+      <a href="https://profile.intra.42.fr/users/cedmulle"><img src="git_utils/student_card.png" alt="Badge 42" width="95%"></a>
       </td>
       <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
-    	<img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="gif" width="100%">
+	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Calque_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;fill: #fff; background-color: #6faf85; border-radius: 15px; padding: 9px;" xml:space="preserve" class="coalition-flag--icon" width="80%" height="80%" opacity="0.5">
+		<polygon points="223.8,430.3 223.8,363.8 166.3,397.1 "></polygon>
+		<circle cx="230.6" cy="211.1" r="19.1"></circle>
+		<polygon points="330.6,321.9 292.5,343.9 330.6,365.9 "></polygon>
+		<rect x="156.7" y="151.5" width="291.1" height="21.8"></rect>
+		<rect x="384.6" y="268.1" transform="matrix(6.733287e-11 -1 1 6.733287e-11 196.0103 753.9921)" width="180.9" height="21.8"></rect>
+		<rect x="249.7" y="386.1" width="202.8" height="21.8"></rect>
+		<rect x="-75" y="280.7" transform="matrix(2.708950e-11 -1 1 2.708950e-11 -141.762 441.3857)" width="449.5" height="21.8"></rect>
+		<rect x="236.5" y="200.2" width="161" height="21.8"></rect>
+		<rect x="354.2" y="269.5" transform="matrix(1.088108e-10 -1 1 1.088108e-10 129.7451 690.6703)" width="111.9" height="21.8"></rect>
+		<rect x="329" y="333" width="68.5" height="21.8"></rect>
+		<circle cx="475" cy="162.4" r="31.8"></circle>
+		<circle cx="475" cy="397.1" r="31.8"></circle>
+		<circle cx="410.2" cy="211.1" r="19.1"></circle>
+		<circle cx="410.2" cy="343.9" r="19.1"></circle>
+		<path d="M181.6,39.9c0,17.6-14.2,31.8-31.8,31.8s-31.8-14.2-31.8-31.8s14.2-31.8,31.8-31.8S181.6,22.4,181.6,39.9z M149.8,25.9  c-7.8,0-14.1,6.3-14.1,14.1S142.1,54,149.8,54s14.1-6.3,14.1-14.1S157.6,25.9,149.8,25.9z"></path>
+		<rect x="116" y="516.3" width="67.7" height="21.8"></rect>
+		<polygon points="149.8,598.9 183,541.4 116.6,541.4 "></polygon>
+		<circle cx="148.7" cy="162.4" r="19.1"></circle>
+		<rect x="207.7" y="386.1" transform="matrix(1.798349e-10 -1 1 1.798349e-10 -155.5429 638.5739)" width="67.7" height="21.8"></rect>
+		<rect x="196.6" y="177.6" transform="matrix(1.798215e-10 -1 1 1.798215e-10 41.8637 418.9806)" width="67.7" height="21.8"></rect>
+	</svg>
+    </td>
+	<td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
+    	<img src="https://c.tenor.com/_DOBjnGspYAAAAAC/tenor.gif" alt="gif" width="100%">
     </td>
 	<tr>
-	<td style="text-align: center;" align="center" colspan="3" margin-left: auto; margin-right: auto; border-collapse: auto;>
-     	 <a href="https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2"><img src="./git_utils/blackhole.png" alt="Black_hole" width="100%">
+	<td style="text-align: center;" align="center" colspan="4" margin-left: auto; margin-right: auto; border-collapse: auto;>
+     	 <a href="https://42.fr/en/the-program/software-engineer-degree/"><img src="./git_utils/graduate_card.png" alt="graduate" width="100%">
       </td>
       </tr>
   </table>
@@ -104,7 +132,31 @@ Feel free to explore and connect. Let's build something amazing together! 💻�
 
 <br>
 
----
+## CTFs
+
+<table>
+  <tr>
+    <td width="24%">
+		<a><img src="git_utils/ctf_42lausanne_2023.png" width="70%" alt="Brick Wall"></a>
+	</td>
+    <td width="24%" align="center">
+		42 lausanne CTF<br>
+		December 2023<br>
+		112 participants<br>
+		73 challenges<br>
+		Average score (1'426 pts)<br>
+		Median score (3'019 pts)
+	</td>
+	<td width="24%" align="center">
+		Pwn - Binary exploitation / OSINT / Web / Forensics / Cryptography / Steganography / Reverse engineering / Privilege escalation / Misc
+	</td>
+    <td width="24%" align="center">
+		My result<br>
+		<strong>4th rank</strong><br>
+		12'600 pts
+	</td>
+  </tr>
+</table>
 
 <br>
 
@@ -121,18 +173,48 @@ Feel free to explore and connect. Let's build something amazing together! 💻�
 
 <br>
 
----
-
-<br>
-
 ## Github Stats
-
-<div align="center" style="display: flex; justify-content: center;">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aceyzz&theme=algolia&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=530)
-
-</div>
-
-<br>
-
----
+<table>
+	<tr>
+		<td style="vertical-align:top;width:36%">
+			<picture>
+				<source
+					srcset="https://github-readme-stats.vercel.app/api?username=aceyzz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"
+					media="(prefers-color-scheme: dark)"
+				/>
+				<source
+					srcset="https://github-readme-stats.vercel.app/api?username=aceyzz&show_icons=true&hide_border=true&count_private=true"
+					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+				/>
+				<img src="https://github-readme-stats.vercel.app/api?username=aceyzz&show_icons=true&hide_border=true&count_private=true" />
+			</picture>
+		</td>
+		<td style="vertical-align:top;height:100%">
+			<picture>
+				<source
+					srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aceyzz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"
+					media="(prefers-color-scheme: dark)"
+				/>
+				<source
+					srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aceyzz&show_icons=true&hide_border=true&layout=compact"
+					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+				/>
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceyzz&show_icons=true&hide_border=true&layout=compact" />
+			</picture>
+		</td>
+		<td style="vertical-align:top;width:37%">
+			<picture>
+				<source
+					srcset="https://github-readme-streak-stats.herokuapp.com/?user=aceyzz&theme=vue-dark&hide_border=true"
+					media="(prefers-color-scheme: dark)"
+				/>
+				<source
+					srcset="https://github-readme-streak-stats.herokuapp.com/?user=aceyzz&hide_border=true"
+					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+				/>
+				<img src="https://github-readme-streak-stats.herokuapp.com/?user=aceyzz&hide_border=true" />
+			</picture>
+		</td>
+	</tr>
+</table>
