@@ -79,54 +79,33 @@
 <p align="center">
   <table style="width: 75%; margin-left: auto; margin-right: auto;">
     <tr>
-      <td style="text-align: center;" align="center"margin-left: auto; margin-right: auto; border-collapse: auto;>
-        <a href="https://github.com/aceyzz/42-Cursus"><img src="./git_utils/CURSUS.png" alt="42 Cursus" width="100%"></a>
+    	<td style="text-align: center;" align="center"margin-left: auto; margin-right: auto; border-collapse: auto;>
+        	<a href="https://github.com/aceyzz/42-Cursus"><img src="./git_utils/CURSUS.png" alt="42 Cursus" width="100%"></a>
         </td>
         <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
-        <a href="https://github.com/aceyzz/42-Piscine"><img src="./git_utils/PISCINE.png" alt="42 Piscine" width="100%"></a>
+        	<a href="https://github.com/aceyzz/42-Piscine"><img src="./git_utils/PISCINE.png" alt="42 Piscine" width="100%"></a>
         </td>
         <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
-        <a href="https://github.com/aceyzz/42-Exam"><img src="./git_utils/EXAMS.png" alt="42 Exam" width="100%"></a>
-      </td>
-	  <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
-        <a href="https://github.com/aceyzz/42-Specs"><img src="./git_utils/SPECS.png" alt="42 Exam" width="100%"></a>
-      </td>
+        	<a href="https://github.com/aceyzz/42-Exam"><img src="./git_utils/EXAMS.png" alt="42 Exam" width="100%"></a>
+      	</td>
+	  	<td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
+        	<a href="https://github.com/aceyzz/42-Specs"><img src="./git_utils/SPECS.png" alt="42 Exam" width="100%"></a>
+		</td>
     </tr>
-    <td style="text-align: center;" align="center" colspan="2" margin-left: auto; margin-right: auto; border-collapse: auto;>
-      <a href="https://profile.intra.42.fr/users/cedmulle"><img src="git_utils/student_card.png" alt="Badge 42" width="95%"></a>
-      </td>
-      <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
-	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Calque_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;fill: #fff; background-color: #6faf85; border-radius: 15px; padding: 9px;" xml:space="preserve" class="coalition-flag--icon" width="80%" height="80%" opacity="0.5">
-		<polygon points="223.8,430.3 223.8,363.8 166.3,397.1 "></polygon>
-		<circle cx="230.6" cy="211.1" r="19.1"></circle>
-		<polygon points="330.6,321.9 292.5,343.9 330.6,365.9 "></polygon>
-		<rect x="156.7" y="151.5" width="291.1" height="21.8"></rect>
-		<rect x="384.6" y="268.1" transform="matrix(6.733287e-11 -1 1 6.733287e-11 196.0103 753.9921)" width="180.9" height="21.8"></rect>
-		<rect x="249.7" y="386.1" width="202.8" height="21.8"></rect>
-		<rect x="-75" y="280.7" transform="matrix(2.708950e-11 -1 1 2.708950e-11 -141.762 441.3857)" width="449.5" height="21.8"></rect>
-		<rect x="236.5" y="200.2" width="161" height="21.8"></rect>
-		<rect x="354.2" y="269.5" transform="matrix(1.088108e-10 -1 1 1.088108e-10 129.7451 690.6703)" width="111.9" height="21.8"></rect>
-		<rect x="329" y="333" width="68.5" height="21.8"></rect>
-		<circle cx="475" cy="162.4" r="31.8"></circle>
-		<circle cx="475" cy="397.1" r="31.8"></circle>
-		<circle cx="410.2" cy="211.1" r="19.1"></circle>
-		<circle cx="410.2" cy="343.9" r="19.1"></circle>
-		<path d="M181.6,39.9c0,17.6-14.2,31.8-31.8,31.8s-31.8-14.2-31.8-31.8s14.2-31.8,31.8-31.8S181.6,22.4,181.6,39.9z M149.8,25.9  c-7.8,0-14.1,6.3-14.1,14.1S142.1,54,149.8,54s14.1-6.3,14.1-14.1S157.6,25.9,149.8,25.9z"></path>
-		<rect x="116" y="516.3" width="67.7" height="21.8"></rect>
-		<polygon points="149.8,598.9 183,541.4 116.6,541.4 "></polygon>
-		<circle cx="148.7" cy="162.4" r="19.1"></circle>
-		<rect x="207.7" y="386.1" transform="matrix(1.798349e-10 -1 1 1.798349e-10 -155.5429 638.5739)" width="67.7" height="21.8"></rect>
-		<rect x="196.6" y="177.6" transform="matrix(1.798215e-10 -1 1 1.798215e-10 41.8637 418.9806)" width="67.7" height="21.8"></rect>
-	</svg>
-    </td>
-	<td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
-    	<img src="https://c.tenor.com/_DOBjnGspYAAAAAC/tenor.gif" alt="gif" width="100%">
-    </td>
+    	<td style="text-align: center;" align="center" colspan="2" margin-left: auto; margin-right: auto; border-collapse: auto;>
+      		<a href="https://profile.intra.42.fr/users/cedmulle"><img src="git_utils/student_card.png" alt="Badge 42" width="95%"></a>
+    	</td>
+   		<td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
+	  		<img src="git_utils/coallition.png" alt="gif" width="100%">
+		</td>
+		<td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
+    		<img src="https://c.tenor.com/_DOBjnGspYAAAAAC/tenor.gif" alt="gif" width="100%">
+    	</td>
 	<tr>
-	<td style="text-align: center;" align="center" colspan="4" margin-left: auto; margin-right: auto; border-collapse: auto;>
-     	 <a href="https://42.fr/en/the-program/software-engineer-degree/"><img src="./git_utils/graduate_card.png" alt="graduate" width="100%">
-      </td>
-      </tr>
+		<td style="text-align: center;" align="center" colspan="4" margin-left: auto; margin-right: auto; border-collapse: auto;>
+     		<a href="https://42.fr/en/the-program/software-engineer-degree/"><img src="./git_utils/graduate_card.png" alt="graduate" width="100%">
+      	</td>
+    </tr>
   </table>
 </p>
 
