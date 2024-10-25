@@ -116,7 +116,7 @@
 <table>
   <tr>
     <td width="24%">
-		<a><img src="git_utils/ctf_42lausanne_2023.png" width="70%" alt="Brick Wall"></a>
+		<a><img src="git_utils/ctf_42lausanne_2023.png" width="100%" alt="Brick Wall"></a>
 	</td>
     <td width="24%" align="center">
 		42 lausanne CTF<br>
