@@ -26,11 +26,11 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,html,css,js,react,docker,git,github,godot,mysql,ps,py" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,bash,bootstrap,cmake,c,cpp,html,css,js,react,docker,git,github,godot,mysql,ps,py" />
 	  <br><br>
   </a>
   <a>
-    <img src="https://skillicons.dev/icons?i=apple,kali,linux,windows,vscode,vim" />
+    <img src="https://skillicons.dev/icons?i=arch,apple,debian,kali,linux,ubuntu,windows,vscode,vim,sublime" />
   </a>
 </p>
 
