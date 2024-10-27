@@ -31,7 +31,7 @@
 
 🎓 I graduated from 42 Lausanne School in October 2024. Currently, I am continuing to specialize in my field. I hold two Microsoft Azure certifications in Cloud and Data. My journey is driven by a passion for technology and a commitment to continuous learning and growth.
 
-💼 I'm currently working full-time as an IT Engineer.
+💼 I'm currently working full-time as a junior IT Engineer.
 
 💡 With a knack for quick learning, adaptability, and resilience under pressure, I thrive in dynamic environments.
 
