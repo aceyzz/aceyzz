@@ -154,7 +154,7 @@
 
 ## Github Stats
   
-<table>
+<table style="width:50%;justify-content:center;align-item:center;">
 	<tr>
 		<td style="vertical-align:top;width:100%">
 			<picture>
@@ -171,7 +171,7 @@
 		</td>
     </tr>
     <tr>
-		<td style="vertical-align:top;height:100%">
+		<td style="vertical-align:top;justify-content:center;align-item:center;height:100%">
 			<picture>
 				<source
 					srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aceyzz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"
