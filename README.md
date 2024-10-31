@@ -156,7 +156,7 @@
   
 <table>
 	<tr>
-		<td style="vertical-align:top;width:36%">
+		<td style="vertical-align:top;width:100%">
 			<picture>
 				<source
 					srcset="https://github-readme-stats.vercel.app/api?username=aceyzz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"
@@ -169,6 +169,8 @@
 				<img src="https://github-readme-stats.vercel.app/api?username=aceyzz&show_icons=true&hide_border=true&count_private=true" />
 			</picture>
 		</td>
+    </tr>
+    <tr>
 		<td style="vertical-align:top;height:100%">
 			<picture>
 				<source
@@ -182,7 +184,9 @@
 				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceyzz&show_icons=true&hide_border=true&layout=compact" />
 			</picture>
 		</td>
-		<td style="vertical-align:top;width:37%">
+    </tr>
+    <tr>
+		<td style="vertical-align:top;width:100%">
 			<picture>
 				<source
 					srcset="https://github-readme-streak-stats.herokuapp.com/?user=aceyzz&theme=vue-dark&hide_border=true"
