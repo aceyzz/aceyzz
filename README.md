@@ -30,7 +30,7 @@
 
 🚀 Currently immersed in the dynamic world of technology, I'm a passionate learner and enthusiast of all things tech-related.
 
-🎓 I graduated from 42 Lausanne School in October 2024. Currently, I am continuing to specialize in my field. I hold two Microsoft Azure certifications in Cloud, Data and Security. My journey is driven by a passion for technology and a commitment to continuous learning and growth.
+🎓 I graduated from 42 Lausanne School in October 2024. Currently, I am continuing to specialize in my field. I hold 3 Microsoft Azure certifications in Cloud, Data and Security. My journey is driven by a passion for technology and a commitment to continuous learning and growth.
 
 💼 I'm currently working full-time as a junior IT Engineer.
 
