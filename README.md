@@ -1,5 +1,6 @@
-<img src="git_utils/banner.png" alt="logo" style="width: 100%">
-<img src="git_utils/Aceyzz.png" alt="logo" style="width: 100%">
+<p align="center">
+	<img src="git_utils/banner.png" alt="logo" style="width: 60%; border-radius: 8px;">
+</p>
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/aceyzz/count.svg"/>
@@ -10,7 +11,7 @@
 <div align="center">
 <a href="https://discord.gg/aceyzi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
 <a href="https://cmuller.ch" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Website&label=&color=b59900&logoColor=yellow&labelColor=&style=for-the-badge" height="35" alt="website logo"></a>
-<a href="https://www.linkedin.com/in/cédric-muller-a6787127b" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"</a>
+<a href="https://www.linkedin.com/in/cédric-muller-a6787127b" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
 
 <br>
@@ -28,23 +29,25 @@
 
 <br>
 
-🚀 Currently immersed in the dynamic world of technology, I'm a passionate learner and enthusiast of all things tech-related.
+🚀 I'm passionate about technology and always eager to learn more.
 
-🎓 I graduated from 42 Lausanne School in October 2024. Currently, I am continuing to specialize in my field. I hold 3 Microsoft Azure certifications in Cloud, Data and Security. My journey is driven by a passion for technology and a commitment to continuous learning and growth.
+🎓 Graduated from 42 Lausanne School in October 2024, now specializing further in IT. I also hold 3 Microsoft Azure certifications in Cloud, Data, and Security.
 
-💼 I'm currently working full-time as an IT Engineer.
+💼 Currently working full-time as an IT Engineer.
 
-💡 With a knack for quick learning, adaptability, and resilience under pressure, I thrive in dynamic environments.
+💡 I adapt quickly, learn fast, and enjoy tackling new challenges.
 
-🛠️ My goal on GitHub is to share the fruits of my exploration and showcase the projects I'm passionate about.
+🛠️ Here on GitHub, I share my projects and discoveries.
 
-💻✨Feel free to explore and connect. Let's build something amazing together!
+💻✨ Feel free to connect — let's create something great!
 
 </div>
 
 <br>
 
-<a><img src="./git_utils/binary.gif" alt="binary" width="100%"></a>
+<p align="center">
+	<img src="./git_utils/binary.gif" alt="binary" width="60%">
+</p>
 
 <br>
 
@@ -53,7 +56,7 @@
 	<br>
 	<table>
 		<tr>
-			<td align="center"><img src="https://skillicons.dev/icons?i=arch,apple,debian,kali,linux,ubuntu,windows"alt="Operating Systems">
+			<td align="center"><img src="https://skillicons.dev/icons?i=arch,apple,debian,kali,linux,ubuntu,windows" alt="Operating Systems">
 			<img src="https://skillicons.dev/icons?i=vscode,vim,sublime,ps&perline=4" alt="Tools">
 			<img src="https://skillicons.dev/icons?i=bash,mysql" alt="Other Technologies"></td>
 		</tr>
@@ -71,7 +74,9 @@
 
 ## Github Profile Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=aceyzz&title=MultiLanguage,Commits,Repositories,Followers,Experience&theme=algolia&no-bg=true&no-frame=true)
+<p align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=aceyzz&title=MultiLanguage,Commits,Repositories,Followers,Experience&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" width="80%">
+</p>
 
 <br>
 
@@ -155,50 +160,21 @@
 
 ## Github Stats
   
-<table style="width:50%;justify-content:center;align-item:center;">
-	<tr>
-		<td style="vertical-align:top;width:100%">
-			<picture>
-				<source
-					srcset="https://github-readme-stats.vercel.app/api?username=aceyzz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"
-					media="(prefers-color-scheme: dark)"
-				/>
-				<source
-					srcset="https://github-readme-stats.vercel.app/api?username=aceyzz&show_icons=true&hide_border=true&count_private=true"
-					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-				/>
-				<img src="https://github-readme-stats.vercel.app/api?username=aceyzz&show_icons=true&hide_border=true&count_private=true" />
-			</picture>
-		</td>
-    </tr>
-    <tr>
-		<td style="vertical-align:top;justify-content:center;align-item:center;height:100%">
-			<picture>
-				<source
-					srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aceyzz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"
-					media="(prefers-color-scheme: dark)"
-				/>
-				<source
-					srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aceyzz&show_icons=true&hide_border=true&layout=compact"
-					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-				/>
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceyzz&show_icons=true&hide_border=true&layout=compact" />
-			</picture>
-		</td>
-    </tr>
-    <tr>
-		<td style="vertical-align:top;width:100%">
-			<picture>
-				<source
-					srcset="https://github-readme-streak-stats.herokuapp.com/?user=aceyzz&theme=vue-dark&hide_border=true"
-					media="(prefers-color-scheme: dark)"
-				/>
-				<source
-					srcset="https://github-readme-streak-stats.herokuapp.com/?user=aceyzz&hide_border=true"
-					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-				/>
-				<img src="https://github-readme-streak-stats.herokuapp.com/?user=aceyzz&hide_border=true" />
-			</picture>
-		</td>
-	</tr>
-</table>
+<div align="center">
+
+<picture>
+	<source srcset="https://github-readme-stats.vercel.app/api?username=aceyzz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" media="(prefers-color-scheme: dark)" />
+	<img src="https://github-readme-stats.vercel.app/api?username=aceyzz&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="410" />
+</picture>
+
+<picture>
+	<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aceyzz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" media="(prefers-color-scheme: dark)" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceyzz&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="410" />
+</picture>
+
+<picture>
+	<source srcset="https://github-readme-streak-stats.herokuapp.com/?user=aceyzz&theme=vue-dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=aceyzz&hide_border=true" alt="GitHub Streak" width="410" />
+</picture>
+
+</div>
