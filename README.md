@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="git_utils/banner.png" alt="logo" style="width: 60%; border-radius: 8px;">
+	<img src="git_utils/banner.png" alt="logo" style="width: 80%;">
 </p>
 
 <p align="center"> 
@@ -74,9 +74,7 @@
 
 ## Github Profile Trophy
 
-<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=aceyzz&title=MultiLanguage,Commits,Repositories,Followers,Experience&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" width="80%">
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=aceyzz&title=MultiLanguage,Commits,Repositories,Followers,Experience&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" width="80%">
 
 <br>
 
