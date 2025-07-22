@@ -2,10 +2,6 @@
 	<img src="git_utils/banner.png" alt="logo" style="width: 80%;">
 </p>
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/aceyzz/count.svg"/>
-</p>
-
 <br>
 
 <div align="center">
