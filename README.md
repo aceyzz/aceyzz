@@ -93,7 +93,7 @@
 		</td>
     </tr>
     	<td style="text-align: center;" align="center" colspan="2" margin-left: auto; margin-right: auto; border-collapse: auto;>
-      		<a href="https://profile.intra.42.fr/users/cedmulle"><img src="git_utils/student_card.png" alt="Badge 42" width="95%"></a>
+      		<a href="https://profile.intra.42.fr/users/cedmulle"><img src="git_utils/student_card.png" alt="Badge 42" width="95%" style="border-radius: 8px;"></a>
     	</td>
    		<td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
 	  		<img src="git_utils/coallition.png" alt="gif" width="100%">
