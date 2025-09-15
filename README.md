@@ -60,7 +60,7 @@
 	<table>
 		<tr>
 			<td align="center"><img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github" alt="Technologies">
-			<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Web Development" />
+			<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,swift" alt="Web Development" />
 			<img src="https://skillicons.dev/icons?i=c,cpp,py,cmake" alt="Software Development" /></td>
 		</tr>
 	</table>
