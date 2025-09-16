@@ -74,7 +74,7 @@
 
 <br>
 
-## Cursus at 42 Lausanne School
+## 42 School Born2Code
 
 <p align="center">
   <table style="width: 75%; margin-left: auto; margin-right: auto;">
