@@ -74,6 +74,29 @@
 
 <br>
 
+## Github Stats
+  
+<div align="center">
+
+<picture>
+	<source srcset="https://github-readme-stats.vercel.app/api?username=aceyzz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" media="(prefers-color-scheme: dark)" />
+	<img src="https://github-readme-stats.vercel.app/api?username=aceyzz&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="410" />
+</picture>
+
+<picture>
+	<source srcset="https://github-readme-streak-stats.herokuapp.com/?user=aceyzz&theme=vue-dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=aceyzz&hide_border=true" alt="GitHub Streak" width="410" />
+</picture>
+
+<picture>
+	<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aceyzz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" media="(prefers-color-scheme: dark)" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceyzz&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="410" />
+</picture>
+
+</div>
+
+<br>
+
 ## 42 School Born2Code
 
 <p align="center">
@@ -151,24 +174,3 @@
 </table>
 
 <br>
-
-## Github Stats
-  
-<div align="center">
-
-<picture>
-	<source srcset="https://github-readme-stats.vercel.app/api?username=aceyzz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" media="(prefers-color-scheme: dark)" />
-	<img src="https://github-readme-stats.vercel.app/api?username=aceyzz&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="410" />
-</picture>
-
-<picture>
-	<source srcset="https://github-readme-streak-stats.herokuapp.com/?user=aceyzz&theme=vue-dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=aceyzz&hide_border=true" alt="GitHub Streak" width="410" />
-</picture>
-
-<picture>
-	<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aceyzz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" media="(prefers-color-scheme: dark)" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceyzz&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="410" />
-</picture>
-
-</div>
