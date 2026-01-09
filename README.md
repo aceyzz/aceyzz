@@ -49,50 +49,7 @@
 
 <div align="center">
 	<h3>Technologies & Tools</h3>
-	<br>
-	<table>
-		<tr>
-			<td align="center"><img src="https://skillicons.dev/icons?i=arch,apple,debian,kali,linux,ubuntu,windows" alt="Operating Systems">
-			<img src="https://skillicons.dev/icons?i=vscode,vim,sublime,ps&perline=4" alt="Tools">
-			<img src="https://skillicons.dev/icons?i=bash,mysql" alt="Other Technologies"></td>
-		</tr>
-	</table>
-	<table>
-		<tr>
-			<td align="center"><img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github" alt="Technologies">
-			<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,swift" alt="Web Development" />
-			<img src="https://skillicons.dev/icons?i=c,cpp,py,cmake" alt="Software Development" /></td>
-		</tr>
-	</table>
-</div>
-
-<br>
-
-## Github Profile Trophy
-
-<img src="https://github-profile-trophy.vercel.app/?username=aceyzz&title=MultiLanguage,Commits,Repositories,Followers,Experience&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" width="80%">
-
-<br>
-
-## Github Stats
-  
-<div align="center">
-
-<picture>
-	<source srcset="https://github-readme-stats.vercel.app/api?username=aceyzz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" media="(prefers-color-scheme: dark)" />
-	<img src="https://github-readme-stats.vercel.app/api?username=aceyzz&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="410" />
-</picture>
-
-<picture>
-	<source srcset="https://github-readme-streak-stats.herokuapp.com/?user=aceyzz&theme=vue-dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=aceyzz&hide_border=true" alt="GitHub Streak" width="410" />
-</picture>
-
-<picture>
-	<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aceyzz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" media="(prefers-color-scheme: dark)" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceyzz&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="410" />
-</picture>
-
+	<img src="https://skillicons.dev/icons?i=arch,apple,debian,kali,linux,ubuntu,windows,vscode,vim,sublime,ps,bash,mysql,aws,azure,docker,git,github,html,css,js,react,bootstrap,swift,c,cpp,py,cmake&perline=7" alt="Technologies & Tools">
 </div>
 
 <br>
@@ -136,6 +93,9 @@
 
 ## CTFs
 
+<details>
+  <summary><strong>Click to expand CTF participation details</strong></summary>
+
 <table>
   <tr>
     <td width="24%">
@@ -160,9 +120,14 @@
   </tr>
 </table>
 
+</details>
+
 <br>
 
 ## Game Jams
+
+<details>
+  <summary><strong>Click to expand Game Jam participation details</strong></summary>
 
 <table>
   <tr>
@@ -172,5 +137,7 @@
     <td width="24%" align="center">Authors:<br>- <a href="https://github.com/Rain36522">Rain36522</a><br>- <a href="https://github.com/alde-oli">alde-oli</a><br>- <a href="https://github.com/DavePie">DavePie</a><br>- <a href="https://github.com/aceyzz">aceyzz</a></td>
   </tr>
 </table>
+
+</details>
 
 <br>
