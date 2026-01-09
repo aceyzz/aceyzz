@@ -97,10 +97,50 @@
 
 <br>
 
+## Hackhaton
+
+<details>
+  <summary><strong>Click to expand Hackhatons participation details</strong></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td width="24%">
+      <a href="https://www.audemarspiguet.com/">
+        <img src="https://www.audemarspiguet.com/etc.clientlibs/ap-com/ui/clientlibs/publish/resources/static/favicon-192x192.png" width="100%" alt="Audemars Piguet">
+      </a>
+    </td>
+    <td width="24%">
+      <strong>Audemars Piguet<br>& Arianee
+	  </strong><br>
+      Innovation & Luxury Tech
+    </td>
+    <td width="24%" align="center">
+      Team size: <strong>3</strong><br>
+      Result: <strong>🥈 2nd place</strong><br>
+      Type: <strong>Hackathon</strong><br>
+      Duration: <strong>48h</strong>
+    </td>
+    <td width="24%" align="center">
+      Authors:<br>
+      - <a href="https://github.com/aceyzz">aceyzz</a><br>
+      - <a href="https://github.com/arnaudherman">arnaudherman</a><br>
+      - <a href="https://github.com/jrandetdev">jrandetdev</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<br>
+
 ## CTFs
 
 <details>
   <summary><strong>Click to expand CTF participation details</strong></summary>
+
+<br>
 
 <table>
   <tr>
@@ -135,6 +175,8 @@
 <details>
   <summary><strong>Click to expand Game Jam participation details</strong></summary>
 
+<br>
+
 <table>
   <tr>
     <td width="24%"><a href="https://github.com/aceyzz/UPSI-GameJam4"><img src="https://img.itch.zone/aW1nLzE1NTA4NTc1LnBuZw==/315x250%23c/9jWOKJ.png" width="100%" alt="Brick Wall"></a></td>
@@ -145,5 +187,6 @@
 </table>
 
 </details>
+
 
 <br>
