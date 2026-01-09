@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="git_utils/banner.png" alt="logo" style="width: 80%;">
+	<img src="utils/banner.png" alt="logo" style="width: 80%;">
 </p>
 
 <br>
@@ -42,7 +42,7 @@
 <br>
 
 <p align="center">
-	<img src="./git_utils/binary.gif" alt="binary" width="60%">
+	<img src="./utils/binary.gif" alt="binary" width="60%">
 </p>
 
 <br>
@@ -66,30 +66,30 @@
   <table style="width: 75%; margin-left: auto; margin-right: auto;">
     <tr>
     	<td style="text-align: center;" align="center"margin-left: auto; margin-right: auto; border-collapse: auto;>
-        	<a href="https://github.com/aceyzz/42-Cursus"><img src="./git_utils/CURSUS.png" alt="42 Cursus" width="100%"></a>
+        	<a href="https://github.com/aceyzz/42-Cursus"><img src="./utils/CURSUS.png" alt="42 Cursus" width="100%"></a>
         </td>
         <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
-        	<a href="https://github.com/aceyzz/42-Piscine"><img src="./git_utils/PISCINE.png" alt="42 Piscine" width="100%"></a>
+        	<a href="https://github.com/aceyzz/42-Piscine"><img src="./utils/PISCINE.png" alt="42 Piscine" width="100%"></a>
         </td>
         <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
-        	<a href="https://github.com/aceyzz/42-Exam"><img src="./git_utils/EXAMS.png" alt="42 Exam" width="100%"></a>
+        	<a href="https://github.com/aceyzz/42-Exam"><img src="./utils/EXAMS.png" alt="42 Exam" width="100%"></a>
       	</td>
 	  	<td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
-        	<a href="https://github.com/aceyzz/42-Specs"><img src="./git_utils/SPECS.png" alt="42 Exam" width="100%"></a>
+        	<a href="https://github.com/aceyzz/42-Specs"><img src="./utils/SPECS.png" alt="42 Exam" width="100%"></a>
 		</td>
     </tr>
     	<td style="text-align: center;" align="center" colspan="2" margin-left: auto; margin-right: auto; border-collapse: auto;>
-      		<a href="https://profile.intra.42.fr/users/cedmulle"><img src="git_utils/student_card.png" alt="Badge 42" width="95%" style="border-radius: 8px;"></a>
+      		<a href="https://profile.intra.42.fr/users/cedmulle"><img src="utils/student_card.png" alt="Badge 42" width="95%" style="border-radius: 8px;"></a>
     	</td>
    		<td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
-	  		<img src="git_utils/coallition.png" alt="gif" width="100%">
+	  		<img src="utils/coallition.png" alt="gif" width="100%">
 		</td>
 		<td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
     		<img src="https://c.tenor.com/_DOBjnGspYAAAAAC/tenor.gif" alt="gif" width="100%">
     	</td>
 	<tr>
 		<td style="text-align: center;" align="center" colspan="4" margin-left: auto; margin-right: auto; border-collapse: auto;>
-     		<a href="https://42.fr/en/the-program/software-engineer-degree/"><img src="./git_utils/graduate_card.png" alt="graduate" width="100%">
+     		<a href="https://42.fr/en/the-program/software-engineer-degree/"><img src="./utils/graduate_card.png" alt="graduate" width="100%">
       	</td>
     </tr>
   </table>
@@ -105,7 +105,7 @@
 <table>
   <tr>
     <td width="24%">
-		<a><img src="git_utils/ctf_42lausanne_2023.png" width="100%" alt="Brick Wall"></a>
+		<a><img src="utils/ctf_42lausanne_2023.png" width="100%" alt="Brick Wall"></a>
 	</td>
     <td width="24%" align="center">
 		42 lausanne CTF<br>
