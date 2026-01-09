@@ -54,6 +54,12 @@
 
 <br>
 
+## GitHub Stats
+
+<img src="utils/card.svg" width="100%" alt="GithHub Card">
+
+<br>
+
 ## 42 School Born2Code
 
 <p align="center">
