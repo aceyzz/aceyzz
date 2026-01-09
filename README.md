@@ -49,7 +49,7 @@
 
 <div align="center">
 	<h3>Technologies & Tools</h3>
-	<img src="https://skillicons.dev/icons?i=arch,apple,debian,kali,linux,ubuntu,windows,vscode,vim,sublime,ps,bash,mysql,aws,azure,docker,git,github,html,css,js,react,bootstrap,swift,c,cpp,py,cmake&perline=7" alt="Technologies & Tools">
+	<img src="https://skillicons.dev/icons?i=arch,debian,kali,linux,ubuntu,windows,raspberrypi,apple,bash,powershell,git,github,gitlab,docker,kubernetes,ansible,nginx,cmake,postman,aws,azure,supabase,html,css,md,js,ts,react,astro,c,cpp,py,go,swift,ocaml,vscode,vim,sublime,figma,mysql&perline=8" alt="Technologies & Tools">
 </div>
 
 <br>
