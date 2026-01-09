@@ -63,7 +63,7 @@ Graduated Student at 42 Lausanne</text>
     
 <rect x="607" y="210" width="167" height="90" rx="16" fill="#0c1526" stroke="rgba(255,255,255,0.12)"/>
 <text x="625" y="228" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Active Repos ≤ 30d</text>
-<text x="625" y="250" fill="#e7eefc" font-size="26" font-weight="900" dominant-baseline="hanging">13</text>
+<text x="625" y="250" fill="#e7eefc" font-size="26" font-weight="900" dominant-baseline="hanging">14</text>
 
 
     
@@ -75,7 +75,7 @@ Graduated Student at 42 Lausanne</text>
     
 <rect x="977" y="210" width="167" height="90" rx="16" fill="#0c1526" stroke="rgba(255,255,255,0.12)"/>
 <text x="995" y="228" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Commits (12mo)</text>
-<text x="995" y="250" fill="#e7eefc" font-size="26" font-weight="900" dominant-baseline="hanging">670</text>
+<text x="995" y="250" fill="#e7eefc" font-size="26" font-weight="900" dominant-baseline="hanging">672</text>
 
 
 
@@ -102,7 +102,7 @@ Graduated Student at 42 Lausanne</text>
 <rect x="52" y="534" width="372" height="86" rx="12" fill="#0c1526" stroke="rgba(255,255,255,0.12)"/>
 <text x="68" y="550" fill="#a9b7d6" font-size="10" dominant-baseline="hanging">Maintained</text>
 
-  <text x="68" y="570" fill="#e7eefc" font-size="14" font-weight="700" dominant-baseline="hanging">28 repos</text>
+  <text x="68" y="570" fill="#e7eefc" font-size="14" font-weight="700" dominant-baseline="hanging">29 repos</text>
   <text x="68" y="590" fill="#a9b7d6" font-size="12" dominant-baseline="hanging">Last 90 days</text>
   
 
@@ -111,17 +111,17 @@ Graduated Student at 42 Lausanne</text>
       <text x="468" y="348" fill="#e7eefc" font-size="16" font-weight="900" dominant-baseline="hanging">Languages</text>
       
   <text x="468" y="388" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">C</text>
-  <text x="774" y="388" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">37.1%</text>
+  <text x="774" y="388" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">37.0%</text>
   <rect x="468" y="405" width="306" height="10" rx="6" fill="rgba(255,255,255,0.09)"/>
   <rect x="468" y="405" width="306" height="10" rx="6" fill="url(#gradLang)"/>
   
   <text x="468" y="418" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">HTML</text>
-  <text x="774" y="418" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">20.5%</text>
+  <text x="774" y="418" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">20.4%</text>
   <rect x="468" y="435" width="306" height="10" rx="6" fill="rgba(255,255,255,0.09)"/>
   <rect x="468" y="435" width="169" height="10" rx="6" fill="url(#gradLang)"/>
   
   <text x="468" y="448" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">C++</text>
-  <text x="774" y="448" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">8.0%</text>
+  <text x="774" y="448" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">7.9%</text>
   <rect x="468" y="465" width="306" height="10" rx="6" fill="rgba(255,255,255,0.09)"/>
   <rect x="468" y="465" width="65" height="10" rx="6" fill="url(#gradLang)"/>
   
@@ -131,7 +131,7 @@ Graduated Student at 42 Lausanne</text>
   <rect x="468" y="495" width="51" height="10" rx="6" fill="url(#gradLang)"/>
   
   <text x="468" y="508" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Swift</text>
-  <text x="774" y="508" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">5.6%</text>
+  <text x="774" y="508" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">5.5%</text>
   <rect x="468" y="525" width="306" height="10" rx="6" fill="rgba(255,255,255,0.09)"/>
   <rect x="468" y="525" width="45" height="10" rx="6" fill="url(#gradLang)"/>
   
@@ -141,9 +141,9 @@ Graduated Student at 42 Lausanne</text>
   <rect x="468" y="555" width="35" height="10" rx="6" fill="url(#gradLang)"/>
   
   <text x="468" y="568" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Python</text>
-  <text x="774" y="568" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">3.5%</text>
+  <text x="774" y="568" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">3.8%</text>
   <rect x="468" y="585" width="306" height="10" rx="6" fill="rgba(255,255,255,0.09)"/>
-  <rect x="468" y="585" width="29" height="10" rx="6" fill="url(#gradLang)"/>
+  <rect x="468" y="585" width="31" height="10" rx="6" fill="url(#gradLang)"/>
   
   <text x="468" y="598" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Makefile</text>
   <text x="774" y="598" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">2.1%</text>
