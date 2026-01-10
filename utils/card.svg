@@ -145,12 +145,12 @@ Graduated Student at 42 Lausanne</text>
   <rect x="468" y="585" width="306" height="10" rx="6" fill="rgba(255,255,255,0.09)"/>
   <rect x="468" y="585" width="31" height="10" rx="6" fill="url(#gradLang)"/>
   
-  <text x="468" y="598" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Makefile</text>
+  <text x="468" y="598" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Shell</text>
   <text x="774" y="598" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">2.1%</text>
   <rect x="468" y="615" width="306" height="10" rx="6" fill="rgba(255,255,255,0.09)"/>
   <rect x="468" y="615" width="17" height="10" rx="6" fill="url(#gradLang)"/>
   
-  <text x="468" y="628" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Shell</text>
+  <text x="468" y="628" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Makefile</text>
   <text x="774" y="628" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">2.1%</text>
   <rect x="468" y="645" width="306" height="10" rx="6" fill="rgba(255,255,255,0.09)"/>
   <rect x="468" y="645" width="17" height="10" rx="6" fill="url(#gradLang)"/>
