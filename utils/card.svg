@@ -39,7 +39,7 @@
     <text x="188" y="100" fill="#a9b7d6" font-size="14" dominant-baseline="hanging">IT Engineer
  -   
 Graduated Student at 42 Lausanne</text>
-    <text x="188" y="128" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Member since 2022-09-03 • Updated 2026-03-24</text>
+    <text x="188" y="128" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Member since 2022-09-03 • Updated 2026-03-25</text>
     <text x="1148" y="60" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">https://github.com/aceyzz</text>
 
     
@@ -51,7 +51,7 @@ Graduated Student at 42 Lausanne</text>
     
 <rect x="237" y="210" width="167" height="90" rx="16" fill="#0c1526" stroke="rgba(255,255,255,0.12)"/>
 <text x="255" y="228" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Public repos</text>
-<text x="255" y="250" fill="#e7eefc" font-size="26" font-weight="900" dominant-baseline="hanging">55</text>
+<text x="255" y="250" fill="#e7eefc" font-size="26" font-weight="900" dominant-baseline="hanging">56</text>
 
 
     
@@ -63,7 +63,7 @@ Graduated Student at 42 Lausanne</text>
     
 <rect x="607" y="210" width="167" height="90" rx="16" fill="#0c1526" stroke="rgba(255,255,255,0.12)"/>
 <text x="625" y="228" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Active Repos ≤ 30d</text>
-<text x="625" y="250" fill="#e7eefc" font-size="26" font-weight="900" dominant-baseline="hanging">9</text>
+<text x="625" y="250" fill="#e7eefc" font-size="26" font-weight="900" dominant-baseline="hanging">10</text>
 
 
     
@@ -75,7 +75,7 @@ Graduated Student at 42 Lausanne</text>
     
 <rect x="977" y="210" width="167" height="90" rx="16" fill="#0c1526" stroke="rgba(255,255,255,0.12)"/>
 <text x="995" y="228" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Commits (12mo)</text>
-<text x="995" y="250" fill="#e7eefc" font-size="26" font-weight="900" dominant-baseline="hanging">710</text>
+<text x="995" y="250" fill="#e7eefc" font-size="26" font-weight="900" dominant-baseline="hanging">711</text>
 
 
 
@@ -102,7 +102,7 @@ Graduated Student at 42 Lausanne</text>
 <rect x="52" y="534" width="372" height="86" rx="12" fill="#0c1526" stroke="rgba(255,255,255,0.12)"/>
 <text x="68" y="550" fill="#a9b7d6" font-size="10" dominant-baseline="hanging">Maintained</text>
 
-  <text x="68" y="570" fill="#e7eefc" font-size="14" font-weight="700" dominant-baseline="hanging">12 repos</text>
+  <text x="68" y="570" fill="#e7eefc" font-size="14" font-weight="700" dominant-baseline="hanging">13 repos</text>
   <text x="68" y="590" fill="#a9b7d6" font-size="12" dominant-baseline="hanging">Last 90 days</text>
   
 
