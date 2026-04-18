@@ -39,7 +39,7 @@
     <text x="188" y="100" fill="#a9b7d6" font-size="14" dominant-baseline="hanging">IT Engineer
  -   
 Graduated Student at 42 Lausanne</text>
-    <text x="188" y="128" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Member since 2022-09-03 • Updated 2026-04-17</text>
+    <text x="188" y="128" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Member since 2022-09-03 • Updated 2026-04-18</text>
     <text x="1148" y="60" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">https://github.com/aceyzz</text>
 
     
@@ -51,7 +51,7 @@ Graduated Student at 42 Lausanne</text>
     
 <rect x="237" y="210" width="167" height="90" rx="16" fill="#0c1526" stroke="rgba(255,255,255,0.12)"/>
 <text x="255" y="228" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Public repos</text>
-<text x="255" y="250" fill="#e7eefc" font-size="26" font-weight="900" dominant-baseline="hanging">56</text>
+<text x="255" y="250" fill="#e7eefc" font-size="26" font-weight="900" dominant-baseline="hanging">57</text>
 
 
     
@@ -63,7 +63,7 @@ Graduated Student at 42 Lausanne</text>
     
 <rect x="607" y="210" width="167" height="90" rx="16" fill="#0c1526" stroke="rgba(255,255,255,0.12)"/>
 <text x="625" y="228" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Active Repos ≤ 30d</text>
-<text x="625" y="250" fill="#e7eefc" font-size="26" font-weight="900" dominant-baseline="hanging">5</text>
+<text x="625" y="250" fill="#e7eefc" font-size="26" font-weight="900" dominant-baseline="hanging">7</text>
 
 
     
@@ -75,7 +75,7 @@ Graduated Student at 42 Lausanne</text>
     
 <rect x="977" y="210" width="167" height="90" rx="16" fill="#0c1526" stroke="rgba(255,255,255,0.12)"/>
 <text x="995" y="228" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Commits (12mo)</text>
-<text x="995" y="250" fill="#e7eefc" font-size="26" font-weight="900" dominant-baseline="hanging">717</text>
+<text x="995" y="250" fill="#e7eefc" font-size="26" font-weight="900" dominant-baseline="hanging">719</text>
 
 
 
@@ -102,7 +102,7 @@ Graduated Student at 42 Lausanne</text>
 <rect x="52" y="534" width="372" height="86" rx="12" fill="#0c1526" stroke="rgba(255,255,255,0.12)"/>
 <text x="68" y="550" fill="#a9b7d6" font-size="10" dominant-baseline="hanging">Maintained</text>
 
-  <text x="68" y="570" fill="#e7eefc" font-size="14" font-weight="700" dominant-baseline="hanging">12 repos</text>
+  <text x="68" y="570" fill="#e7eefc" font-size="14" font-weight="700" dominant-baseline="hanging">13 repos</text>
   <text x="68" y="590" fill="#a9b7d6" font-size="12" dominant-baseline="hanging">Last 90 days</text>
   
 
@@ -111,17 +111,17 @@ Graduated Student at 42 Lausanne</text>
       <text x="468" y="348" fill="#e7eefc" font-size="16" font-weight="900" dominant-baseline="hanging">Languages</text>
       
   <text x="468" y="388" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">C</text>
-  <text x="774" y="388" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">36.7%</text>
+  <text x="774" y="388" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">36.8%</text>
   <rect x="468" y="405" width="306" height="10" rx="6" fill="rgba(255,255,255,0.09)"/>
   <rect x="468" y="405" width="306" height="10" rx="6" fill="url(#gradLang)"/>
   
   <text x="468" y="418" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">HTML</text>
   <text x="774" y="418" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">21.2%</text>
   <rect x="468" y="435" width="306" height="10" rx="6" fill="rgba(255,255,255,0.09)"/>
-  <rect x="468" y="435" width="177" height="10" rx="6" fill="url(#gradLang)"/>
+  <rect x="468" y="435" width="176" height="10" rx="6" fill="url(#gradLang)"/>
   
   <text x="468" y="448" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">C++</text>
-  <text x="774" y="448" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">7.9%</text>
+  <text x="774" y="448" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">7.8%</text>
   <rect x="468" y="465" width="306" height="10" rx="6" fill="rgba(255,255,255,0.09)"/>
   <rect x="468" y="465" width="65" height="10" rx="6" fill="url(#gradLang)"/>
   
@@ -143,14 +143,14 @@ Graduated Student at 42 Lausanne</text>
   <text x="468" y="568" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Python</text>
   <text x="774" y="568" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">3.8%</text>
   <rect x="468" y="585" width="306" height="10" rx="6" fill="rgba(255,255,255,0.09)"/>
-  <rect x="468" y="585" width="32" height="10" rx="6" fill="url(#gradLang)"/>
+  <rect x="468" y="585" width="31" height="10" rx="6" fill="url(#gradLang)"/>
   
-  <text x="468" y="598" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Shell</text>
+  <text x="468" y="598" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Makefile</text>
   <text x="774" y="598" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">2.1%</text>
   <rect x="468" y="615" width="306" height="10" rx="6" fill="rgba(255,255,255,0.09)"/>
   <rect x="468" y="615" width="17" height="10" rx="6" fill="url(#gradLang)"/>
   
-  <text x="468" y="628" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Makefile</text>
+  <text x="468" y="628" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Shell</text>
   <text x="774" y="628" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">2.1%</text>
   <rect x="468" y="645" width="306" height="10" rx="6" fill="rgba(255,255,255,0.09)"/>
   <rect x="468" y="645" width="17" height="10" rx="6" fill="url(#gradLang)"/>
@@ -174,7 +174,7 @@ Graduated Student at 42 Lausanne</text>
   <text x="818" y="448" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Perl</text>
   <text x="1124" y="448" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">1.7%</text>
   <rect x="818" y="465" width="306" height="10" rx="6" fill="rgba(255,255,255,0.09)"/>
-  <rect x="818" y="465" width="14" height="10" rx="6" fill="url(#gradLang)"/>
+  <rect x="818" y="465" width="13" height="10" rx="6" fill="url(#gradLang)"/>
   
   <text x="818" y="478" fill="#a9b7d6" font-size="13" dominant-baseline="hanging">Roff</text>
   <text x="1124" y="478" fill="#a9b7d6" font-size="13" text-anchor="end" dominant-baseline="hanging">0.9%</text>
