@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="380" viewBox="0 0 900 380" role="img" aria-labelledby="terminal-title terminal-desc">
+  <title id="terminal-title">About Cédric Muller - Terminal Presentation</title>
+  <description id="terminal-desc">Terminal macOS présentant mon profil, parcours 42, diplômes RNCP et certifications</description>
+
+  <defs>
+    <!-- Variables textuelles maîtresses -->
+    <g id="term-variables">
+      <!-- Barre titre & Prompt -->
+      <text id="var-term-tab">cedmulle@lausanne: ~/about_me</text>
+      <text id="var-term-cmd">whoami &amp;&amp; cat bio.md</text>
+
+      <!-- Contenu de présentation -->
+      <text id="var-term-line1">I'm passionate about technology, systems architecture and continuous learning.</text>
+      <text id="var-term-line2">Graduated from 42 Lausanne School (October 2024).</text>
+      <text id="var-term-line3">Holder of a Bachelor Degree (RNCP 6) and Master Degree (RNCP 7) in Computer Science &amp; Architecture.</text>
+      <text id="var-term-line4">Certified in Microsoft Azure: Fundamentals (AZ-900), Data (DP-900) &amp; Security (SC-900).</text>
+      <text id="var-term-line5">Currently working full-time as an IT Engineer.</text>
+      <text id="var-term-line6">Fast learner, adaptable, and always eager to take on ambitious technical challenges.</text>
+      <text id="var-term-line7">Here on GitHub, I share my projects, infrastructure experiments, and codebases.</text>
+      <text id="var-term-line8">Feel free to connect — let's build something great!</text>
+    </g>
+
+    <!-- Gradients standards -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="50%" stop-color="#0f0c1b" />
+      <stop offset="100%" stop-color="#07090e" />
+    </linearGradient>
+
+    <linearGradient id="neonBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="45%" stop-color="#d946ef" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+
+    <linearGradient id="magentaCyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.65" />
+    </linearGradient>
+
+    <!-- Halos Ambiants -->
+    <radialGradient id="auraTopRight" cx="90%" cy="10%" r="60%">
+      <stop offset="0%" stop-color="#d946ef" stop-opacity="0.14" />
+      <stop offset="60%" stop-color="#8b5cf6" stop-opacity="0.03" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="auraBottomLeft" cx="10%" cy="90%" r="55%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.12" />
+      <stop offset="50%" stop-color="#0284c7" stop-opacity="0.03" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#38bdf8" stroke-width="0.75" opacity="0.035" />
+    </pattern>
+
+    <clipPath id="mainClip">
+      <rect x="2" y="2" width="896" height="376" rx="20" />
+    </clipPath>
+  </defs>
+
+  <!-- Fond principal & Ambiance Confinée -->
+  <g clip-path="url(#mainClip)">
+    <rect x="2" y="2" width="896" height="376" fill="url(#bgGrad)" />
+    <rect x="2" y="2" width="896" height="376" fill="url(#auraTopRight)" />
+    <rect x="2" y="2" width="896" height="376" fill="url(#auraBottomLeft)" />
+    <rect x="2" y="2" width="896" height="376" fill="url(#grid)" />
+  </g>
+
+  <!-- Bordure Néon externe -->
+  <rect x="2" y="2" width="896" height="376" rx="20" fill="none" stroke="url(#neonBorder)" stroke-width="1.75" />
+
+  <!-- ========================================== -->
+  <!--       STRUCTURE DE LA FENÊTRE TERMINAL     -->
+  <!-- ========================================== -->
+  <g transform="translate(24, 20)">
+    
+    <!-- Corps du terminal -->
+    <rect width="852" height="340" rx="14" fill="url(#cardGrad)" stroke="#334155" stroke-opacity="0.7" stroke-width="1" />
+
+    <!-- Barre de titre macOS -->
+    <path d="M 0 14 Q 0 0 14 0 L 838 0 Q 852 0 852 14 L 852 38 L 0 38 Z" fill="#030712" fill-opacity="0.75" />
+    <line x1="0" y1="38" x2="852" y2="38" stroke="#334155" stroke-opacity="0.6" stroke-width="1" />
+
+    <!-- Boutons macOS (Close, Minimize, Expand) -->
+    <g transform="translate(18, 14)">
+      <circle cx="0" cy="5" r="5.5" fill="#ef4444" />
+      <circle cx="16" cy="5" r="5.5" fill="#f59e0b" />
+      <circle cx="32" cy="5" r="5.5" fill="#22c55e" />
+    </g>
+
+    <!-- Titre de l'onglet Terminal -->
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+      <use href="#var-term-tab" x="426" y="23" fill="#64748b" font-size="11" font-weight="600" letter-spacing="0.5" text-anchor="middle" />
+    </g>
+
+    <!-- ========================================== -->
+    <!--          CONTENU DU TERMINAL               -->
+    <!-- ========================================== -->
+    <g transform="translate(28, 62)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+      
+      <!-- Ligne de Commande avec prompt -->
+      <g>
+        <text x="0" y="10" fill="#00f2fe" font-size="13" font-weight="800">cedmulle</text>
+        <text x="70" y="10" fill="#64748b" font-size="13" font-weight="700">in</text>
+        <text x="94" y="10" fill="#ec4899" font-size="13" font-weight="800">~/profile</text>
+        <text x="172" y="10" fill="#38bdf8" font-size="13" font-weight="800">❯</text>
+        <use href="#var-term-cmd" x="188" y="10" fill="#f8fafc" font-size="13" font-weight="600" />
+      </g>
+
+      <!-- Sortie / Bio formatée -->
+      <g transform="translate(0, 34)" font-size="12" font-weight="500">
+        
+        <!-- Ligne 1 -->
+        <g transform="translate(0, 0)">
+          <text x="0" y="0" fill="#00f2fe" font-weight="800">✦</text>
+          <use href="#var-term-line1" x="20" y="0" fill="#e2e8f0" />
+        </g>
+
+        <!-- Ligne 2 -->
+        <g transform="translate(0, 24)">
+          <text x="0" y="0" fill="#ec4899" font-weight="800">✦</text>
+          <use href="#var-term-line2" x="20" y="0" fill="#cbd5e1" />
+        </g>
+
+        <!-- Ligne 3 -->
+        <g transform="translate(0, 48)">
+          <text x="0" y="0" fill="#fbbf24" font-weight="800">✦</text>
+          <use href="#var-term-line3" x="20" y="0" fill="#f8fafc" font-weight="600" />
+        </g>
+
+        <!-- Ligne 4 -->
+        <g transform="translate(0, 72)">
+          <text x="0" y="0" fill="#38bdf8" font-weight="800">✦</text>
+          <use href="#var-term-line4" x="20" y="0" fill="#cbd5e1" />
+        </g>
+
+        <!-- Ligne 5 -->
+        <g transform="translate(0, 96)">
+          <text x="0" y="0" fill="#22c55e" font-weight="800">✦</text>
+          <use href="#var-term-line5" x="20" y="0" fill="#f1f5f9" font-weight="700" />
+        </g>
+
+        <!-- Ligne 6 -->
+        <g transform="translate(0, 120)">
+          <text x="0" y="0" fill="#a855f7" font-weight="800">✦</text>
+          <use href="#var-term-line6" x="20" y="0" fill="#94a3b8" />
+        </g>
+
+        <!-- Ligne 7 -->
+        <g transform="translate(0, 144)">
+          <text x="0" y="0" fill="#00f2fe" font-weight="800">✦</text>
+          <use href="#var-term-line7" x="20" y="0" fill="#cbd5e1" />
+        </g>
+
+        <!-- Ligne 8 -->
+        <g transform="translate(0, 168)">
+          <text x="0" y="0" fill="#ec4899" font-weight="800">✦</text>
+          <use href="#var-term-line8" x="20" y="0" fill="#38bdf8" font-weight="700" />
+        </g>
+
+        <!-- Prompt final actif avec curseur -->
+        <g transform="translate(0, 204)">
+          <text x="0" y="0" fill="#00f2fe" font-size="13" font-weight="800">cedmulle</text>
+          <text x="70" y="0" fill="#38bdf8" font-size="13" font-weight="800">❯</text>
+          <rect x="88" y="-11" width="7.5" height="14" rx="1.5" fill="#00f2fe">
+            <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite" />
+          </rect>
+        </g>
+
+      </g>
+    </g>
+
+  </g>
+</svg>

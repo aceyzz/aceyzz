@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="270" height="270" viewBox="0 0 270 270" role="img" aria-labelledby="cert-title cert-desc">
+  <title id="cert-title">Certification DP-900 - Cédric Muller</title>
+  <description id="cert-desc">Badge Microsoft Certified: Azure Data Fundamentals</description>
+
+  <defs>
+    <!-- Variables -->
+    <g id="cert-variables">
+      <text id="var-cert-issuer">MICROSOFT CERTIFIED</text>
+      <text id="var-cert-level">DP-900</text>
+      <text id="var-cert-title">AZURE DATA</text>
+      <text id="var-cert-subtitle">FUNDAMENTALS</text>
+      <text id="var-cert-spec">Relational, NoSQL &amp; Analytics</text>
+      <text id="var-cert-status">CERTIFIED</text>
+    </g>
+
+    <!-- Gradients standards -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="50%" stop-color="#0f0c1b" />
+      <stop offset="100%" stop-color="#07090e" />
+    </linearGradient>
+
+    <linearGradient id="neonBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="45%" stop-color="#d946ef" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+
+    <!-- Gradient Signature Azure Animé (Cyan -> Azure Blue) -->
+    <linearGradient id="azureShine" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#0078d4" />
+      <stop offset="100%" stop-color="#38bdf8" />
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="5s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.75" />
+    </linearGradient>
+
+    <!-- Halo Azure Cyan / Bleu -->
+    <radialGradient id="auraAzure" cx="50%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#0078d4" stop-opacity="0.22" />
+      <stop offset="50%" stop-color="#00f2fe" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#38bdf8" stroke-width="0.75" opacity="0.035" />
+    </pattern>
+
+    <clipPath id="squareClip">
+      <rect x="2" y="2" width="266" height="266" rx="20" />
+    </clipPath>
+  </defs>
+
+  <!-- Fond principal -->
+  <g clip-path="url(#squareClip)">
+    <rect x="2" y="2" width="266" height="266" fill="url(#bgGrad)" />
+    <rect x="2" y="2" width="266" height="266" fill="url(#auraAzure)" />
+    <rect x="2" y="2" width="266" height="266" fill="url(#grid)" />
+  </g>
+
+  <!-- Bordure Néon externe -->
+  <rect x="2" y="2" width="266" height="266" rx="20" fill="none" stroke="url(#neonBorder)" stroke-width="1.75" />
+
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Inter, sans-serif">
+    
+    <!-- HEADER DU BADGE -->
+    <use href="#var-cert-issuer" x="135" y="28" fill="#38bdf8" font-size="8" font-weight="800" letter-spacing="1.8" text-anchor="middle" />
+
+    <!-- BLASON CENTRAL AVEC LOGO AZURE ET SHINE BLEU -->
+    <g transform="translate(111, 40)">
+      <!-- Lueur d'ambiance animée -->
+      <rect width="48" height="48" rx="14" fill="none" stroke="url(#azureShine)" stroke-width="3" opacity="0.35" />
+      
+      <!-- Fond du badge -->
+      <rect width="48" height="48" rx="14" fill="#030712" stroke="url(#azureShine)" stroke-width="1.75" />
+      
+      <!-- Logo Azure SVG -->
+      <svg x="10" y="10" width="28" height="28" viewBox="0 0 18 18" overflow="visible">
+        <path d="m3.802,14.032c.388.242,1.033.511,1.715.511.621,0,1.198-.18,1.676-.487,0,0,.001,0,.002-.001l1.805-1.128v4.073c-.286,0-.574-.078-.824-.234l-4.374-2.734Z" fill="#225086"/>
+        <path d="m7.853,1.507L.353,9.967c-.579.654-.428,1.642.323,2.111,0,0,2.776,1.735,3.126,1.954.388.242,1.033.511,1.715.511.621,0,1.198-.18,1.676-.487,0,0,.001,0,.002-.001l1.805-1.128-4.364-2.728,4.365-4.924V1s0,0,0,0c-.424,0-.847.169-1.147.507Z" fill="#6df"/>
+        <polygon points="4.636 10.199 4.688 10.231 9 12.927 9.001 12.927 9.001 12.927 9.001 5.276 9 5.275 4.636 10.199" fill="#cbf8ff"/>
+        <path d="m17.324,12.078c.751-.469.902-1.457.323-2.111l-4.921-5.551c-.397-.185-.842-.291-1.313-.291-.925,0-1.752.399-2.302,1.026l-.109.123h0s4.364,4.924,4.364,4.924h0s0,0,0,0l-4.365,2.728v4.073c.287,0,.573-.078.823-.234l7.5-4.688Z" fill="#074793"/>
+        <path d="m9.001,1v4.275s.109-.123.109-.123c.55-.627,1.377-1.026,2.302-1.026.472,0,.916.107,1.313.291l-2.579-2.909c-.299-.338-.723-.507-1.146-.507Z" fill="#0294e4"/>
+        <polygon points="13.365 10.199 13.365 10.199 13.365 10.199 9.001 5.276 9.001 12.926 13.365 10.199" fill="#96bcc2"/>
+      </svg>
+    </g>
+
+    <!-- CARTE CENTRALE DES TITRES -->
+    <g transform="translate(20, 100)">
+      <rect width="230" height="106" rx="12" fill="url(#cardGrad)" stroke="#334155" stroke-opacity="0.7" stroke-width="1" />
+      
+      <!-- Code Certification -->
+      <use href="#var-cert-level" x="115" y="24" fill="#38bdf8" font-size="14" font-weight="900" letter-spacing="1.5" text-anchor="middle" />
+      
+      <!-- Intitulé Officiel -->
+      <use href="#var-cert-title" x="115" y="44" fill="#ffffff" font-size="11" font-weight="800" letter-spacing="0.5" text-anchor="middle" />
+      <use href="#var-cert-subtitle" x="115" y="58" fill="#ffffff" font-size="11" font-weight="800" letter-spacing="0.5" text-anchor="middle" />
+
+      <!-- Ligne de séparation fine -->
+      <line x1="30" y1="72" x2="200" y2="72" stroke="#334155" stroke-opacity="0.6" stroke-width="1" />
+
+      <!-- Spécialité / Branche -->
+      <use href="#var-cert-spec" x="115" y="90" fill="#94a3b8" font-size="10" font-weight="700" letter-spacing="0.5" text-anchor="middle" />
+    </g>
+
+    <!-- PIED : Statut Vert Clignotant Centré -->
+    <g transform="translate(135, 236)">
+      <use href="#var-cert-status" x="0" y="0" fill="#22c55e" font-size="9.5" font-weight="800" letter-spacing="2" text-anchor="middle">
+        <animate attributeName="opacity" values="0.35;1;0.35" dur="2s" repeatCount="indefinite" />
+      </use>
+    </g>
+
+  </g>
+</svg>

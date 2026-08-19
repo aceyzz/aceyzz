@@ -1,149 +1,58 @@
 <p align="center">
-	<img src="utils/banner.png" alt="logo" style="width: 80%;">
+  <img src="assets/PROFILE.svg" alt="About Cédric Muller" width="100%">
 </p>
 
-<br>
+<p align="center">
+  <a href="https://cmuller.ch" target="_blank" rel="noopener noreferrer">
+    <img src="assets/WEBSITE.svg" alt="Portfolio Website" width="49%">
+  </a>
+  <a href="https://www.linkedin.com/in/cédric-muller-a6787127b" target="_blank" rel="noopener noreferrer">
+    <img src="assets/LINKEDIN.svg" alt="LinkedIn Profile" width="49%">
+  </a>
+</p>
 
-<div align="center">
-<a href="https://discord.gg/aceyzi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-<a href="https://cmuller.ch" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Website&label=&color=b59900&logoColor=yellow&labelColor=&style=for-the-badge" height="35" alt="website logo"></a>
-<a href="https://www.linkedin.com/in/cédric-muller-a6787127b" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-</div>
-
-<br>
-
-<div align="center">
-ᴅᴀʀᴋ ᴍᴏᴅᴇ ᴘʟᴇᴀꜱᴇ
-</div>
-
-<br>
-
-# Hello there !
-
-<div align="center">
-
-<br>
-
-🚀 I'm passionate about technology and always eager to learn more.
-
-🎓 Graduated from 42 Lausanne School in October 2024, now specializing further in IT. I also hold 3 Microsoft Azure certifications in Cloud, Data, and Security.
-
-💼 Currently working full-time as an IT Engineer.
-
-💡 I adapt quickly, learn fast, and enjoy tackling new challenges.
-
-🛠️ Here on GitHub, I share my projects and discoveries.
-
-💻✨ Feel free to connect — let's create something great!
-
-</div>
+---
 
 <br>
 
 <p align="center">
-	<img src="./utils/binary.gif" alt="binary" width="60%">
+  <img src="https://skillicons.dev/icons?i=arch,debian,kali,linux,ubuntu,windows,raspberrypi,apple,bash,powershell,git,github,gitlab,docker,kubernetes,ansible,nginx,cmake,postman,aws,azure,supabase,html,css,md,js,ts,react,astro,c,cpp,py,go,swift,ocaml,vscode,vim,sublime,figma,mysql&perline" alt="Technologies & Tools">
 </p>
 
-<br>
-
-<div align="center">
-	<h3>Technologies & Tools</h3>
-	<img src="https://skillicons.dev/icons?i=arch,debian,kali,linux,ubuntu,windows,raspberrypi,apple,bash,powershell,git,github,gitlab,docker,kubernetes,ansible,nginx,cmake,postman,aws,azure,supabase,html,css,md,js,ts,react,astro,c,cpp,py,go,swift,ocaml,vscode,vim,sublime,figma,mysql&perline=8" alt="Technologies & Tools">
-</div>
+---
 
 <br>
 
 ## 42 School Born2Code
 
 <p align="center">
-  <table style="width: 100%; margin-left: auto; margin-right: auto; table-layout: fixed;">
-    <tr>
-    	<td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
-        	<a href="https://github.com/aceyzz/42-Cursus">
-            <img src="./utils/CURSUS.png" alt="42 Cursus" width="100%">
-          </a>
-      </td>
-      <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
-        	<a href="https://github.com/aceyzz/42-Piscine">
-            <img src="./utils/PISCINE.png" alt="42 Piscine" width="100%">
-          </a>
-      </td>
-      <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
-        	<a href="https://github.com/aceyzz/42-Exam">
-            <img src="./utils/EXAMS.png" alt="42 Exam" width="100%">
-          </a>
-      </td>
-	  	<td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
-        	<a href="https://github.com/aceyzz/42-Specs">
-            <img src="./utils/SPECS.png" alt="42 Exam" width="100%">
-          </a>
-		  </td>
-    </tr>
-    <tr>
-    	<td style="text-align: center;" align="center" colspan="2" margin-left: auto; margin-right: auto; border-collapse: auto;>
-      	<a href="https://profile.intra.42.fr/users/cedmulle">
-          <img src="utils/student_card.png" alt="Badge 42" width="100%">
-        </a>
-    	</td>
-   		<td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
-	  		<img src="utils/coallition.png" alt="gif" width="100%">
-		  </td>
-		  <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: auto;>
-    		<img src="https://c.tenor.com/_DOBjnGspYAAAAAC/tenor.gif" alt="gif" width="100%">
-    	</td>
-    </tr>
-  </table>
+  <a href="https://profile.intra.42.fr/users/cedmulle" target="_blank" rel="noopener noreferrer">
+    <img src="assets/STUDENT_CARD.svg" alt="42 Student Card" width="100%">
+  </a>
 </p>
 
 <p align="center">
-  <table style="width: 100%; margin-left: auto; margin-right: auto; table-layout: fixed;">
-	  <tr>
-		  <td style="text-align: center;" align="center" colspan="1" margin-left: auto; margin-right: auto; border-collapse: auto;>
-     		<a href="https://42.fr/en/the-program/software-engineer-degree/">
-          <img src="./utils/commoncore.png" alt="Badge Common Core" width="95%"style="border-radius: 8px;">
-        </a>
-      </td>
-    	<td style="text-align: center;" align="center" colspan="1" margin-left: auto; margin-right: auto; border-collapse: auto;>
-      		<a href="https://www.credly.com/org/42/badge/rncp-niveau-7-expert-en-architecture-informatique-a.3">
-            <img src="utils/rncp7.png" alt="Badge RNCP7" width="95%" style="border-radius: 8px;">
-          </a>
-    	</td>
-      <td style="text-align: center;" align="center" colspan="1" margin-left: auto; margin-right: auto; border-collapse: auto;>
-      		<a href="https://www.credly.com/org/42/badge/rncp-6-concepteur-developpeur-de-solutions-informat.3">
-            <img src="utils/rncp6.png" alt="Badge RNCP6" width="95%" style="border-radius: 8px;">
-          </a>
-    	</td>
-    </tr>
-  </table>
+  <a href="https://github.com/aceyzz/42-Piscine"><img src="assets/PISCINE.svg" alt="42 Piscine" width="24%"></a>
+  <a href="https://github.com/aceyzz/42-Cursus"><img src="assets/CURSUS.svg" alt="42 Cursus" width="24%"></a>
+  <a href="https://github.com/aceyzz/42-Specs"><img src="assets/SPECS.svg" alt="42 Specs" width="24%"></a>
+  <a href="https://github.com/aceyzz/42-Exam"><img src="assets/EXAMS.svg" alt="42 Exams" width="24%"></a>
 </p>
 
-<br>
+### Certifications
+
+<p align="center">
+  <a href="https://42.fr/en/the-program/software-engineer-degree/"><img src="assets/COMMON-CORE.svg" alt="Common Core Completion" width="32%"></a>
+  <a href="https://www.credly.com/org/42/badge/rncp-6-concepteur-developpeur-de-solutions-informat.3"><img src="assets/RNCP6.svg" alt="RNCP Niveau 6" width="32%"></a>
+  <a href="https://www.credly.com/org/42/badge/rncp-niveau-7-expert-en-architecture-informatique-a.3"><img src="assets/RNCP7.svg" alt="RNCP Niveau 7" width="32%"></a>
+</p>
 
 ## Microsoft Azure
 
 <p align="center">
-  <table style="width: 100%; margin-left: auto; margin-right: auto; table-layout: fixed;">
-	  <tr>
-		  <td style="text-align: center;" align="center" colspan="1" margin-left: auto; margin-right: auto; border-collapse: auto;>
-     		<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">
-          <img src="./utils/az900.png" alt="Badge AZ-900" width="95%"style="border-radius: 8px;">
-        </a>
-      </td>
-    	<td style="text-align: center;" align="center" colspan="1" margin-left: auto; margin-right: auto; border-collapse: auto;>
-      		<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification">
-            <img src="utils/dp900.png" alt="Badge DP-900" width="95%" style="border-radius: 8px;">
-          </a>
-    	</td>
-      <td style="text-align: center;" align="center" colspan="1" margin-left: auto; margin-right: auto; border-collapse: auto;>
-      		<a href="https://learn.microsoft.com/fr-fr/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification">
-            <img src="utils/sc900.png" alt="Badge SC-900" width="95%" style="border-radius: 8px;">
-          </a>
-    	</td>
-    </tr>
-  </table>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification"><img src="assets/AZ900.svg" alt="Azure Fundamentals (AZ-900)" width="32%"></a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification"><img src="assets/DP900.svg" alt="Azure Data Fundamentals (DP-900)" width="32%"></a>
+  <a href="https://learn.microsoft.com/fr-fr/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification"><img src="assets/SC900.svg" alt="Azure Security, Compliance & Identity (SC-900)" width="32%"></a>
 </p>
-
-<br>
 
 ## Hackhaton
 
@@ -161,7 +70,7 @@
     </td>
     <td width="24%">
       <strong>Audemars Piguet<br>& Arianee
-	  </strong><br>
+    </strong><br>
       Innovation & Luxury Tech
     </td>
     <td width="24%" align="center">
@@ -181,8 +90,6 @@
 
 </details>
 
-<br>
-
 ## CTFs
 
 <details>
@@ -193,30 +100,28 @@
 <table>
   <tr>
     <td width="24%">
-		<a><img src="utils/ctf_42lausanne_2023.png" width="100%" alt="Brick Wall"></a>
-	</td>
+    <a><img src="utils/ctf_42lausanne_2023.png" width="100%" alt="Brick Wall"></a>
+  </td>
     <td width="24%" align="center">
-		42 lausanne CTF<br>
-		December 2023<br>
-		112 participants<br>
-		73 challenges<br>
-		Average score (1'426 pts)<br>
-		Median score (3'019 pts)
-	</td>
-	<td width="24%" align="center">
-		Pwn - Binary exploitation / OSINT / Web / Forensics / Cryptography / Steganography / Reverse engineering / Privilege escalation / Misc
-	</td>
+    42 lausanne CTF<br>
+    December 2023<br>
+    112 participants<br>
+    73 challenges<br>
+    Average score (1'426 pts)<br>
+    Median score (3'019 pts)
+  </td>
+  <td width="24%" align="center">
+    Pwn - Binary exploitation / OSINT / Web / Forensics / Cryptography / Steganography / Reverse engineering / Privilege escalation / Misc
+  </td>
     <td width="24%" align="center">
-		My result<br>
-		<strong>4th rank</strong><br>
-		12'600 pts
-	</td>
+    My result<br>
+    <strong>4th rank</strong><br>
+    12'600 pts
+  </td>
   </tr>
 </table>
 
 </details>
-
-<br>
 
 ## Game Jams
 
@@ -235,5 +140,3 @@
 </table>
 
 </details>
-
-<br>

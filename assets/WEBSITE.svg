@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="440" height="70" viewBox="0 0 440 70" role="img" aria-labelledby="btn-port-title btn-port-desc">
+  <title id="btn-port-title">Portfolio Website - Cédric Muller</title>
+  <description id="btn-port-desc">Bouton de redirection vers le site web portfolio</description>
+
+  <defs>
+    <g id="btn-variables">
+      <text id="var-btn-tag">LIVE PORTFOLIO</text>
+      <text id="var-btn-title">cmuller.ch</text>
+      <text id="var-btn-action">EXPLORE ↗</text>
+    </g>
+
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="50%" stop-color="#0f0c1b" />
+      <stop offset="100%" stop-color="#07090e" />
+    </linearGradient>
+
+    <linearGradient id="neonBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="45%" stop-color="#d946ef" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+
+    <linearGradient id="magentaCyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.7" />
+    </linearGradient>
+
+    <radialGradient id="auraLeft" cx="10%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#38bdf8" stroke-width="0.75" opacity="0.035" />
+    </pattern>
+
+    <clipPath id="btnClip">
+      <rect x="2" y="2" width="436" height="66" rx="14" />
+    </clipPath>
+  </defs>
+
+  <!-- Fond principal -->
+  <g clip-path="url(#btnClip)">
+    <rect x="2" y="2" width="436" height="66" fill="url(#bgGrad)" />
+    <rect x="2" y="2" width="436" height="66" fill="url(#auraLeft)" />
+    <rect x="2" y="2" width="436" height="66" fill="url(#grid)" />
+  </g>
+
+  <!-- Bordure Néon -->
+  <rect x="2" y="2" width="436" height="66" rx="14" fill="none" stroke="url(#neonBorder)" stroke-width="1.5" />
+
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Inter, sans-serif">
+    
+    <!-- Icône Globe / Web -->
+    <g transform="translate(16, 13)">
+      <rect width="44" height="44" rx="12" fill="#030712" stroke="url(#magentaCyanGrad)" stroke-width="1.5" />
+      <g transform="translate(10, 10)" stroke="#00f2fe" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10" />
+        <line x1="2" y1="12" x2="22" y2="12" />
+        <path d="M 12 2 C 16 6, 16 18, 12 22 C 8 18, 8 6, 12 2 Z" />
+      </g>
+    </g>
+
+    <!-- Textes -->
+    <use href="#var-btn-tag" x="74" y="27" fill="#00f2fe" font-size="8.5" font-weight="800" letter-spacing="1.5" />
+    <use href="#var-btn-title" x="74" y="47" fill="#ffffff" font-size="16" font-weight="800" letter-spacing="0.2" />
+
+    <!-- Action Arrow -->
+    <g transform="translate(412, 35)">
+      <use href="#var-btn-action" x="0" y="4" fill="#38bdf8" font-size="10.5" font-weight="800" letter-spacing="1" text-anchor="end">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite" />
+      </use>
+    </g>
+
+  </g>
+</svg>

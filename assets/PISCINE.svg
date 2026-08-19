@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="270" height="270" viewBox="0 0 270 270" role="img" aria-labelledby="btn-title btn-desc">
+  <title id="btn-title">42 Piscine Repositories - Cédric Muller</title>
+  <description id="btn-desc">Bouton d'accès aux projets et exercices de la Piscine C de l'école 42</description>
+
+  <defs>
+    <!-- Variables -->
+    <g id="btn-variables">
+      <text id="var-btn-tag">42 SELECTION</text>
+      <text id="var-btn-title">PISCINE</text>
+      <text id="var-btn-subtitle">C BOOTCAMP</text>
+      <text id="var-btn-desc">Shell · C · BSQ · Rush</text>
+      <text id="var-btn-action">VIEW REPOS ↗</text>
+    </g>
+
+    <!-- Gradients standards du dashboard -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="50%" stop-color="#0f0c1b" />
+      <stop offset="100%" stop-color="#07090e" />
+    </linearGradient>
+
+    <linearGradient id="neonBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="45%" stop-color="#d946ef" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+
+    <linearGradient id="magentaCyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.75" />
+    </linearGradient>
+
+    <!-- Halo Ambiant -->
+    <radialGradient id="auraPiscine" cx="50%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.18" />
+      <stop offset="50%" stop-color="#d946ef" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#38bdf8" stroke-width="0.75" opacity="0.035" />
+    </pattern>
+
+    <clipPath id="squareClip">
+      <rect x="2" y="2" width="266" height="266" rx="20" />
+    </clipPath>
+  </defs>
+
+  <!-- Fond principal -->
+  <g clip-path="url(#squareClip)">
+    <rect x="2" y="2" width="266" height="266" fill="url(#bgGrad)" />
+    <rect x="2" y="2" width="266" height="266" fill="url(#auraPiscine)" />
+    <rect x="2" y="2" width="266" height="266" fill="url(#grid)" />
+  </g>
+
+  <!-- Bordure Néon externe -->
+  <rect x="2" y="2" width="266" height="266" rx="20" fill="none" stroke="url(#neonBorder)" stroke-width="1.75" />
+
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Inter, sans-serif">
+    
+    <!-- HEADER DU BOUTON -->
+    <use href="#var-btn-tag" x="135" y="28" fill="#00f2fe" font-size="8" font-weight="800" letter-spacing="1.8" text-anchor="middle" />
+
+    <!-- BLASON ICONE : Vagues / Deep Dive Piscine -->
+    <g transform="translate(111, 40)">
+      <!-- Lueur d'ambiance -->
+      <rect width="48" height="48" rx="14" fill="none" stroke="url(#magentaCyanGrad)" stroke-width="3" opacity="0.3" />
+      
+      <!-- Fond de l'icône -->
+      <rect width="48" height="48" rx="14" fill="#030712" stroke="url(#magentaCyanGrad)" stroke-width="1.5" />
+      
+      <!-- Icône Stylisée Waves & Terminal Drop -->
+      <g transform="translate(12, 12)" stroke="url(#magentaCyanGrad)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <!-- Vague haute -->
+        <path d="M 1 6 C 5 2, 8 10, 12 6 C 16 2, 19 10, 23 6" />
+        <!-- Vague basse -->
+        <path d="M 1 14 C 5 10, 8 18, 12 14 C 16 10, 19 18, 23 14" />
+        <!-- Curseur / Goutte de code centrale -->
+        <circle cx="12" cy="10" r="1.5" fill="#00f2fe" stroke="none" />
+      </g>
+    </g>
+
+    <!-- CARTE CENTRALE DES TITRES -->
+    <g transform="translate(20, 100)">
+      <rect width="230" height="106" rx="12" fill="url(#cardGrad)" stroke="#334155" stroke-opacity="0.7" stroke-width="1" />
+      
+      <!-- Titre Principal -->
+      <use href="#var-btn-title" x="115" y="32" fill="#ffffff" font-size="18" font-weight="900" letter-spacing="1.5" text-anchor="middle" />
+      
+      <!-- Sous-titre -->
+      <use href="#var-btn-subtitle" x="115" y="52" fill="#ec4899" font-size="10.5" font-weight="800" letter-spacing="1.2" text-anchor="middle" />
+
+      <!-- Ligne de séparation fine -->
+      <line x1="30" y1="68" x2="200" y2="68" stroke="#334155" stroke-opacity="0.6" stroke-width="1" />
+
+      <!-- Tags / Modules -->
+      <use href="#var-btn-desc" x="115" y="88" fill="#38bdf8" font-size="9.5" font-weight="700" letter-spacing="0.5" text-anchor="middle" />
+    </g>
+
+    <!-- PIED : Action Link Interactif Centré -->
+    <g transform="translate(135, 236)">
+      <use href="#var-btn-action" x="0" y="0" fill="#00f2fe" font-size="9" font-weight="800" letter-spacing="1.5" text-anchor="middle">
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite" />
+      </use>
+    </g>
+
+  </g>
+</svg>

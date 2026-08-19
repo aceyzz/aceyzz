@@ -1,0 +1,259 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="270" viewBox="0 0 900 270" role="img" aria-labelledby="title description">
+  <title id="title">42 Lausanne Profile - Cédric Muller</title>
+  <description id="description">Statistiques de progression 42 Lausanne pour cedmulle</description>
+
+  <defs>
+    <g id="text-variables">
+      <!-- Header -->
+      <text id="var-campus-name">42 LAUSANNE</text>
+      <text id="var-user-name">Cédric Muller</text>
+      <text id="var-user-subtitle">✦ @cedmulle, Chosen by Voxotron</text>
+      <text id="var-status-badge">TRANSCENDER</text>
+
+      <!-- Colonne Gauche -->
+      <text id="var-lbl-level">LEVEL</text>
+      <text id="var-val-level">21.90</text>
+      <text id="var-lbl-projects">PROJECTS</text>
+      <text id="var-val-projects">61</text>
+
+      <!-- Grille Droite - Ligne 1 -->
+      <text id="var-lbl-evals-given">EVALS GIVEN</text>
+      <text id="var-val-evals-given">351</text>
+      <text id="var-lbl-achievements">ACHIEVEMENTS</text>
+      <text id="var-val-achievements">29</text>
+      <text id="var-lbl-coalition-rank">COALITION RANK</text>
+      <text id="var-val-coalition-rank">#1 <tspan font-size="9.5" font-weight="600" fill="#64748b">(576'564 pts)</tspan></text>
+
+      <!-- Grille Droite - Ligne 2 -->
+      <text id="var-lbl-evals-rcvd">EVALS RECEIVED</text>
+      <text id="var-val-evals-rcvd">311</text>
+      <text id="var-lbl-bonus">BONUS DONE</text>
+      <text id="var-val-bonus">22</text>
+      <text id="var-lbl-campus-rank">CAMPUS RANK</text>
+      <text id="var-val-campus-rank">#1 <tspan font-size="9.5" font-weight="600" fill="#64748b">(555 students)</tspan></text>
+
+      <!-- Carte Droite & Footer -->
+      <text id="var-lbl-coalition">COALITION</text>
+      <text id="var-lbl-footer-level">LEVEL</text>
+    </g>
+
+    <!-- Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="50%" stop-color="#0f0c1b" />
+      <stop offset="100%" stop-color="#07090e" />
+    </linearGradient>
+
+    <linearGradient id="neonBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="45%" stop-color="#d946ef" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+
+    <linearGradient id="magentaCyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.75" />
+    </linearGradient>
+
+    <!-- Effet progression -->
+     <linearGradient id="shimmerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+
+    <clipPath id="barProgressClip">
+      <rect id="clip-bar" x="1" y="21" width="720" height="12" rx="6" />
+    </clipPath>
+
+    <!-- Halos Radiaux -->
+    <radialGradient id="auraTopRight" cx="90%" cy="10%" r="60%">
+      <stop offset="0%" stop-color="#d946ef" stop-opacity="0.16" />
+      <stop offset="60%" stop-color="#8b5cf6" stop-opacity="0.04" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="auraBottomLeft" cx="10%" cy="90%" r="55%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.14" />
+      <stop offset="50%" stop-color="#0284c7" stop-opacity="0.03" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#38bdf8" stroke-width="0.75" opacity="0.035" />
+    </pattern>
+
+    <clipPath id="mainClip">
+      <rect x="2" y="2" width="896" height="266" rx="20" />
+    </clipPath>
+  </defs>
+
+  <!-- Fond principal & Ambiance -->
+  <g clip-path="url(#mainClip)">
+    <rect x="2" y="2" width="896" height="266" fill="url(#bgGrad)" />
+    <rect x="2" y="2" width="896" height="266" fill="url(#auraTopRight)" />
+    <rect x="2" y="2" width="896" height="266" fill="url(#auraBottomLeft)" />
+    <rect x="2" y="2" width="896" height="266" fill="url(#grid)" />
+  </g>
+
+  <!-- Bordure Néon externe -->
+  <rect x="2" y="2" width="896" height="266" rx="20" fill="none" stroke="url(#neonBorder)" stroke-width="1.75" />
+
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Inter, sans-serif">
+
+    <!-- HEADER -->
+
+    <!-- Logo Badge 42 -->
+    <g transform="translate(36, 26)">
+      <rect width="52" height="52" rx="14" fill="#030712" stroke="url(#magentaCyanGrad)" stroke-width="1.5" />
+      <svg x="10" y="14.5" width="32" height="23" viewBox="0 0 137.6 96.6" overflow="visible">
+        <g transform="translate(-229.2, -372.7)">
+          <polygon points="229.2,443.9 279.9,443.9 279.9,469.3 305.2,469.3 305.2,423.4 254.6,423.4 305.2,372.7 279.9,372.7 229.2,423.4" fill="#ffffff" />
+          <polygon points="316.1,398.1 341.4,372.7 316.1,372.7" fill="#ffffff" />
+          <polygon points="341.4,398.1 316.1,423.4 316.1,448.7 341.4,448.7 341.4,423.4 366.8,398.1 366.8,372.7 341.4,372.7" fill="#ffffff" />
+          <polygon points="366.8,423.4 341.4,448.7 366.8,448.7" fill="#ffffff" />
+        </g>
+      </svg>
+    </g>
+
+    <!-- Identité Utilisateur (via références) -->
+    <use href="#var-campus-name" x="104" y="36" fill="#00f2fe" font-size="10" font-weight="800" letter-spacing="2.5" />
+    <use href="#var-user-name" x="104" y="61" fill="#ffffff" font-size="22" font-weight="800" />
+    <use href="#var-user-subtitle" x="104" y="76" fill="#ec4899" font-size="10" font-weight="600" letter-spacing="0.5" />
+
+    <!-- Badge Statut (Haut Droite) -->
+    <g transform="translate(680, 26)">
+      <rect width="184" height="32" rx="16" fill="#1e1b4b" stroke="#8b5cf6" stroke-opacity="0.6" stroke-width="1" />
+      <circle cx="18" cy="16" r="4" fill="#22c55e">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite" />
+      </circle>
+      <use href="#var-status-badge" x="30" y="20" fill="#e2e8f0" font-size="10.5" font-weight="700" letter-spacing="1" />
+    </g>
+
+    <!-- CORPS DU DASHBOARD -->
+
+    <!-- Colonne Gauche : Level & Projects -->
+    <g transform="translate(36, 102)">
+      <!-- Bulle 1 : Level -->
+      <g transform="translate(0, 0)">
+        <rect width="124" height="88" rx="14" fill="url(#cardGrad)" stroke="#334155" stroke-opacity="0.7" stroke-width="1" />
+        <use href="#var-lbl-level" x="62" y="15" fill="#64748b" font-size="8.5" font-weight="800" letter-spacing="0.8" text-anchor="middle" />
+        <use href="#var-val-level" x="62" y="58" fill="#38bdf8" font-size="24" font-weight="900" letter-spacing="-0.5" text-anchor="middle" />
+      </g>
+
+      <!-- Bulle 2 : Projects Validés -->
+      <g transform="translate(136, 0)">
+        <rect width="124" height="88" rx="14" fill="url(#cardGrad)" stroke="#334155" stroke-opacity="0.7" stroke-width="1" />
+        <use href="#var-lbl-projects" x="62" y="15" fill="#64748b" font-size="8.5" font-weight="800" letter-spacing="0.8" text-anchor="middle" />
+        <use href="#var-val-projects" x="62" y="58" fill="#ec4899" font-size="24" font-weight="900" text-anchor="middle" />
+      </g>
+    </g>
+
+    <!-- Colonne Droite : Grille de Cartes Individuelles -->
+
+    <g transform="translate(312, 102)">
+      <!-- Cellule 1 : Évaluations données -->
+      <g transform="translate(0, 0)">
+        <rect width="130" height="40" rx="10" fill="url(#cardGrad)" stroke="#334155" stroke-opacity="0.7" stroke-width="1" />
+        <use href="#var-lbl-evals-given" x="12" y="15" fill="#64748b" font-size="8.5" font-weight="800" letter-spacing="0.8" />
+        <use href="#var-val-evals-given" x="12" y="30" fill="#f1f5f9" font-size="13.5" font-weight="800" />
+      </g>
+
+      <!-- Cellule 2 : Évaluations reçues -->
+      <g transform="translate(0, 48)">
+        <rect width="130" height="40" rx="10" fill="url(#cardGrad)" stroke="#334155" stroke-opacity="0.7" stroke-width="1" />
+        <use href="#var-lbl-evals-rcvd" x="12" y="15" fill="#64748b" font-size="8.5" font-weight="800" letter-spacing="0.8" />
+        <use href="#var-val-evals-rcvd" x="12" y="30" fill="#f1f5f9" font-size="13.5" font-weight="800" />
+      </g>
+
+      <!-- Cellule 3 : Achievements -->
+      <g transform="translate(138, 0)">
+        <rect width="130" height="40" rx="10" fill="url(#cardGrad)" stroke="#334155" stroke-opacity="0.7" stroke-width="1" />
+        <use href="#var-lbl-achievements" x="12" y="15" fill="#64748b" font-size="8.5" font-weight="800" letter-spacing="0.8" />
+        <use href="#var-val-achievements" x="12" y="30" fill="#f1f5f9" font-size="13.5" font-weight="800" />
+      </g>
+
+      <!-- Cellule 4 : Projets avec bonus -->
+      <g transform="translate(138, 48)">
+        <rect width="130" height="40" rx="10" fill="url(#cardGrad)" stroke="#334155" stroke-opacity="0.7" stroke-width="1" />
+        <use href="#var-lbl-bonus" x="12" y="15" fill="#64748b" font-size="8.5" font-weight="800" letter-spacing="0.8" />
+        <use href="#var-val-bonus" x="12" y="30" fill="#f1f5f9" font-size="13.5" font-weight="800" />
+      </g>
+
+      <!-- Cellule 5 : Rank Coalition -->
+      <g transform="translate(276, 0)">
+        <rect width="168" height="40" rx="10" fill="url(#cardGrad)" stroke="#334155" stroke-opacity="0.7" stroke-width="1" />
+        <use href="#var-lbl-coalition-rank" x="12" y="15" fill="#64748b" font-size="8.5" font-weight="800" letter-spacing="0.8" />
+        <use href="#var-val-coalition-rank" x="12" y="30" fill="#ec4899" font-size="13.5" font-weight="800" />
+      </g>
+
+      <!-- Cellule 6 : Rank École -->
+      <g transform="translate(276, 48)">
+        <rect width="168" height="40" rx="10" fill="url(#cardGrad)" stroke="#334155" stroke-opacity="0.7" stroke-width="1" />
+        <use href="#var-lbl-campus-rank" x="12" y="15" fill="#64748b" font-size="8.5" font-weight="800" letter-spacing="0.8" />
+        <use href="#var-val-campus-rank" x="12" y="30" fill="#38bdf8" font-size="13.5" font-weight="800" />
+      </g>
+
+      <!-- Cellule 7 : Logo Coalition -->
+      <g transform="translate(452, 0)">
+        <rect width="100" height="88" rx="14" fill="url(#cardGrad)" stroke="#334155" stroke-opacity="0.7" stroke-width="1" />
+        <use href="#var-lbl-coalition" x="50" y="15" fill="#64748b" font-size="8.5" font-weight="800" letter-spacing="0.8" text-anchor="middle" />
+        
+        <!-- Drapeau de fond (Banner) -->
+        <svg x="32" y="27" width="36" height="55" viewBox="0 0 68 104" overflow="visible">
+          <polygon points="0,0 0,80.5 34.3,104 68,80.5 68,0" fill="#70AF85"></polygon>
+        </svg>
+
+        <!-- Icône de la coalition  -->
+        <svg x="37" y="38" width="26" height="26" viewBox="0 0 612 612" fill="#ffffff" overflow="visible">
+          <polygon points="223.8,430.3 223.8,363.8 166.3,397.1 "></polygon>
+          <circle cx="230.6" cy="211.1" r="19.1"></circle>
+          <polygon points="330.6,321.9 292.5,343.9 330.6,365.9 "></polygon>
+          <rect x="156.7" y="151.5" width="291.1" height="21.8"></rect>
+          <rect x="384.6" y="268.1" transform="matrix(6.733287e-11 -1 1 6.733287e-11 196.0103 753.9921)" width="180.9" height="21.8"></rect>
+          <rect x="249.7" y="386.1" width="202.8" height="21.8"></rect>
+          <rect x="-75" y="280.7" transform="matrix(2.708950e-11 -1 1 2.708950e-11 -141.762 441.3857)" width="449.5" height="21.8"></rect>
+          <rect x="236.5" y="200.2" width="161" height="21.8"></rect>
+          <rect x="354.2" y="269.5" transform="matrix(1.088108e-10 -1 1 1.088108e-10 129.7451 690.6703)" width="111.9" height="21.8"></rect>
+          <rect x="329" y="333" width="68.5" height="21.8"></rect>
+          <circle cx="475" cy="162.4" r="31.8"></circle>
+          <circle cx="475" cy="397.1" r="31.8"></circle>
+          <circle cx="410.2" cy="211.1" r="19.1"></circle>
+          <circle cx="410.2" cy="343.9" r="19.1"></circle>
+          <path d="M181.6,39.9c0,17.6-14.2,31.8-31.8,31.8s-31.8-14.2-31.8-31.8s14.2-31.8,31.8-31.8S181.6,22.4,181.6,39.9z M149.8,25.9 c-7.8,0-14.1,6.3-14.1,14.1S142.1,54,149.8,54s14.1-6.3,14.1-14.1S157.6,25.9,149.8,25.9z"></path>
+          <rect x="116" y="516.3" width="67.7" height="21.8"></rect>
+          <polygon points="149.8,598.9 183,541.4 116.6,541.4 "></polygon>
+          <circle cx="148.7" cy="162.4" r="19.1"></circle>
+          <rect x="207.7" y="386.1" transform="matrix(1.798349e-10 -1 1 1.798349e-10 -155.5429 638.5739)" width="67.7" height="21.8"></rect>
+          <rect x="196.6" y="177.6" transform="matrix(1.798215e-10 -1 1 1.798215e-10 41.8637 418.9806)" width="67.7" height="21.8"></rect>
+        </svg>
+      </g>
+    </g>
+
+    <!-- PIED : Progression & Barre fluide -->
+    <g transform="translate(36, 206)">
+      <use href="#var-lbl-footer-level" x="0" y="12" fill="#94a3b8" font-size="11" font-weight="700" letter-spacing="1.5" />
+      
+      <!-- Barre d'arrière-plan -->
+      <rect x="0" y="20" width="828" height="14" rx="7" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
+      
+      <!-- Barre de progression active confinée avec Shimmer -->
+      <g clip-path="url(#barProgressClip)">
+        <!-- Remplissage dégradé -->
+        <rect id="bar-level-progress" x="1" y="21" width="720" height="12" rx="6" fill="url(#magentaCyanGrad)" />
+        
+        <!-- Faisceau lumineux glissant de gauche à droite -->
+        <rect x="-200" y="21" width="180" height="12" fill="url(#shimmerGrad)">
+          <animateTransform attributeName="transform" type="translate" from="0 0" to="1000 0" dur="2.5s" repeatCount="indefinite" />
+        </rect>
+      </g>
+    </g>
+
+  </g>
+</svg>

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="440" height="70" viewBox="0 0 440 70" role="img" aria-labelledby="btn-in-title btn-in-desc">
+  <title id="btn-in-title">LinkedIn Profile - Cédric Muller</title>
+  <description id="btn-in-desc">Bouton de redirection vers le profil professionnel LinkedIn</description>
+
+  <defs>
+    <g id="btn-variables">
+      <text id="var-btn-tag">PROFESSIONAL NETWORK</text>
+      <text id="var-btn-title">linkedin.com/in/cedric-muller</text>
+      <text id="var-btn-action">CONNECT ↗</text>
+    </g>
+
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="50%" stop-color="#0f0c1b" />
+      <stop offset="100%" stop-color="#07090e" />
+    </linearGradient>
+
+    <linearGradient id="neonBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="45%" stop-color="#d946ef" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+
+    <linearGradient id="magentaCyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.7" />
+    </linearGradient>
+
+    <radialGradient id="auraLeftIn" cx="10%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#0077b5" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#38bdf8" stroke-width="0.75" opacity="0.035" />
+    </pattern>
+
+    <clipPath id="btnClip">
+      <rect x="2" y="2" width="436" height="66" rx="14" />
+    </clipPath>
+  </defs>
+
+  <!-- Fond principal -->
+  <g clip-path="url(#btnClip)">
+    <rect x="2" y="2" width="436" height="66" fill="url(#bgGrad)" />
+    <rect x="2" y="2" width="436" height="66" fill="url(#auraLeftIn)" />
+    <rect x="2" y="2" width="436" height="66" fill="url(#grid)" />
+  </g>
+
+  <!-- Bordure Néon -->
+  <rect x="2" y="2" width="436" height="66" rx="14" fill="none" stroke="url(#neonBorder)" stroke-width="1.5" />
+
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Inter, sans-serif">
+    
+    <!-- Icône Officielle LinkedIn vectorisée -->
+    <g transform="translate(16, 13)">
+      <rect width="44" height="44" rx="12" fill="#030712" stroke="url(#magentaCyanGrad)" stroke-width="1.5" />
+      <g transform="translate(11, 11)" fill="#0077b5">
+        <path d="M 4.98 3.5 C 4.98 4.88 3.87 6 2.5 6 C 1.13 6 0.02 4.88 0.02 3.5 C 0.02 2.12 1.13 1 2.5 1 C 3.87 1 4.98 2.12 4.98 3.5 Z M 0.5 8 L 4.5 8 L 4.5 21 L 0.5 21 Z M 7.5 8 L 11.3 8 L 11.3 9.8 L 11.4 9.8 C 11.9 8.8 13.2 7.7 15.2 7.7 C 19.3 7.7 20 10.4 20 13.9 L 20 21 L 16 21 L 16 14.7 C 16 13.2 16 11.3 13.9 11.3 C 11.8 11.3 11.5 12.9 11.5 14.6 L 11.5 21 L 7.5 21 Z" fill="#00f2fe" />
+      </g>
+    </g>
+
+    <!-- Textes -->
+    <use href="#var-btn-tag" x="74" y="27" fill="#ec4899" font-size="8.5" font-weight="800" letter-spacing="1.5" />
+    <use href="#var-btn-title" x="74" y="47" fill="#ffffff" font-size="16" font-weight="800" letter-spacing="0.2" />
+
+    <!-- Action Arrow -->
+    <g transform="translate(412, 35)">
+      <use href="#var-btn-action" x="0" y="4" fill="#ec4899" font-size="10.5" font-weight="800" letter-spacing="1" text-anchor="end">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite" />
+      </use>
+    </g>
+
+  </g>
+</svg>
