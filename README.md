@@ -40,13 +40,17 @@
   <a href="https://github.com/aceyzz/42-Exam"><img src="assets/EXAMS.svg" alt="42 Exams" width="24.5%"></a>
 </p>
 
-### Certifications
+<br>
+
+## 42 Certifications
 
 <p align="center">
   <a href="https://42.fr/en/the-program/software-engineer-degree/"><img src="assets/COMMON-CORE.svg" alt="Common Core Completion" width="33%"></a>
   <a href="https://www.credly.com/org/42/badge/rncp-6-concepteur-developpeur-de-solutions-informat.3"><img src="assets/RNCP6.svg" alt="RNCP Niveau 6" width="33%"></a>
   <a href="https://www.credly.com/org/42/badge/rncp-niveau-7-expert-en-architecture-informatique-a.3"><img src="assets/RNCP7.svg" alt="RNCP Niveau 7" width="33%"></a>
 </p>
+
+<br>
 
 ## Microsoft Azure
 
