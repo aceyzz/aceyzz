@@ -60,6 +60,8 @@
   <a href="https://learn.microsoft.com/fr-fr/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification"><img src="assets/SC900.svg" alt="Azure Security, Compliance & Identity (SC-900)" width="33%"></a>
 </p>
 
+<br>
+
 ## Hackhaton
 
 <details>
@@ -96,6 +98,8 @@
 
 </details>
 
+<br>
+
 ## CTFs
 
 <details>
@@ -128,6 +132,8 @@
 </table>
 
 </details>
+
+<br>
 
 ## Game Jams
 
