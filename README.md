@@ -11,6 +11,8 @@
   </a>
 </p>
 
+<br>
+
 ---
 
 <br>
@@ -27,31 +29,31 @@
 
 <p align="center">
   <a href="https://profile.intra.42.fr/users/cedmulle" target="_blank" rel="noopener noreferrer">
-    <img src="assets/STUDENT_CARD.svg" alt="42 Student Card" width="100%">
+    <img src="assets/STUDENT_CARD.svg" alt="42 Student Card" width="98%">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/aceyzz/42-Piscine"><img src="assets/PISCINE.svg" alt="42 Piscine" width="24%"></a>
-  <a href="https://github.com/aceyzz/42-Cursus"><img src="assets/CURSUS.svg" alt="42 Cursus" width="24%"></a>
-  <a href="https://github.com/aceyzz/42-Specs"><img src="assets/SPECS.svg" alt="42 Specs" width="24%"></a>
-  <a href="https://github.com/aceyzz/42-Exam"><img src="assets/EXAMS.svg" alt="42 Exams" width="24%"></a>
+  <a href="https://github.com/aceyzz/42-Piscine"><img src="assets/PISCINE.svg" alt="42 Piscine" width="24.5%"></a>
+  <a href="https://github.com/aceyzz/42-Cursus"><img src="assets/CURSUS.svg" alt="42 Cursus" width="24.5%"></a>
+  <a href="https://github.com/aceyzz/42-Specs"><img src="assets/SPECS.svg" alt="42 Specs" width="24.5%"></a>
+  <a href="https://github.com/aceyzz/42-Exam"><img src="assets/EXAMS.svg" alt="42 Exams" width="24.5%"></a>
 </p>
 
 ### Certifications
 
 <p align="center">
-  <a href="https://42.fr/en/the-program/software-engineer-degree/"><img src="assets/COMMON-CORE.svg" alt="Common Core Completion" width="32%"></a>
-  <a href="https://www.credly.com/org/42/badge/rncp-6-concepteur-developpeur-de-solutions-informat.3"><img src="assets/RNCP6.svg" alt="RNCP Niveau 6" width="32%"></a>
-  <a href="https://www.credly.com/org/42/badge/rncp-niveau-7-expert-en-architecture-informatique-a.3"><img src="assets/RNCP7.svg" alt="RNCP Niveau 7" width="32%"></a>
+  <a href="https://42.fr/en/the-program/software-engineer-degree/"><img src="assets/COMMON-CORE.svg" alt="Common Core Completion" width="33%"></a>
+  <a href="https://www.credly.com/org/42/badge/rncp-6-concepteur-developpeur-de-solutions-informat.3"><img src="assets/RNCP6.svg" alt="RNCP Niveau 6" width="33%"></a>
+  <a href="https://www.credly.com/org/42/badge/rncp-niveau-7-expert-en-architecture-informatique-a.3"><img src="assets/RNCP7.svg" alt="RNCP Niveau 7" width="33%"></a>
 </p>
 
 ## Microsoft Azure
 
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification"><img src="assets/AZ900.svg" alt="Azure Fundamentals (AZ-900)" width="32%"></a>
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification"><img src="assets/DP900.svg" alt="Azure Data Fundamentals (DP-900)" width="32%"></a>
-  <a href="https://learn.microsoft.com/fr-fr/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification"><img src="assets/SC900.svg" alt="Azure Security, Compliance & Identity (SC-900)" width="32%"></a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification"><img src="assets/AZ900.svg" alt="Azure Fundamentals (AZ-900)" width="33%"></a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification"><img src="assets/DP900.svg" alt="Azure Data Fundamentals (DP-900)" width="33%"></a>
+  <a href="https://learn.microsoft.com/fr-fr/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification"><img src="assets/SC900.svg" alt="Azure Security, Compliance & Identity (SC-900)" width="33%"></a>
 </p>
 
 ## Hackhaton
