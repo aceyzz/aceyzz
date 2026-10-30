@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="52" viewBox="0 0 300 52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-labelledby="t">
+<title id="t">Website — cmuller.ch</title>
+<defs>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#8F5CF3"><animate attributeName="stop-color" values="#8F5CF3;#22D3EE;#8F5CF3" dur="10s" repeatCount="indefinite"/></stop>
+<stop offset="0.5" stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#8F5CF3;#22D3EE" dur="10s" repeatCount="indefinite"/></stop>
+<stop offset="1" stop-color="#8F5CF3"><animate attributeName="stop-color" values="#8F5CF3;#22D3EE;#8F5CF3" dur="10s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A101F"/><stop offset="1" stop-color="#0C1426"/></linearGradient>
+</defs>
+<rect x="1.5" y="1.5" width="297" height="49" rx="10" fill="url(#panelGrad)" stroke="url(#accent)" stroke-width="1.4"/>
+<g transform="translate(28 26)"><circle cx="0" cy="0" r="9" fill="none" stroke="#22D3EE" stroke-width="1.8"/><ellipse cx="0" cy="0" rx="4" ry="9" fill="none" stroke="#22D3EE" stroke-width="1.6"/><path d="M-9 0H9M-7.6 -4.8H7.6M-7.6 4.8H7.6" stroke="#22D3EE" stroke-width="1.4"/></g>
+<line x1="51" y1="13" x2="51" y2="39" stroke="rgba(255,255,255,0.10)"/>
+<text x="64" y="32" font-size="17" font-weight="600" fill="#F8FAFC">cmuller.ch</text>
+<text x="284" y="32" text-anchor="end" font-size="16" fill="#22D3EE">&#8599;</text>
+</svg>

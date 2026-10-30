@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="340" viewBox="0 0 1180 340" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-labelledby="cardTitle cardDesc">
+<title id="cardTitle">Cédric Muller — 42 Lausanne</title>
+<desc id="cardDesc">42 Lausanne student stats for cedmulle: level 21.90, 61 projects, campus rank 1 of 671.</desc>
+<defs>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#8F5CF3"><animate attributeName="stop-color" values="#8F5CF3;#22D3EE;#8F5CF3" dur="10s" repeatCount="indefinite"/></stop>
+<stop offset="0.5" stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#8F5CF3;#22D3EE" dur="10s" repeatCount="indefinite"/></stop>
+<stop offset="1" stop-color="#8F5CF3"><animate attributeName="stop-color" values="#8F5CF3;#22D3EE;#8F5CF3" dur="10s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A101F"/><stop offset="1" stop-color="#0C1426"/></linearGradient>
+<linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8F5CF3"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+<filter id="glow8" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="8"/></filter>
+<filter id="glow3" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+<filter id="txtGlow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="0.9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="winClip"><rect x="2" y="2" width="1176" height="336" rx="18"/></clipPath>
+<clipPath id="barClip"><rect x="470" y="300" width="589.5" height="12" rx="6"/></clipPath>
+</defs>
+<rect x="2" y="2" width="1176" height="336" rx="18" fill="#070B16"/>
+<g clip-path="url(#winClip)">
+<rect x="2" y="2" width="1176" height="336" fill="url(#panelGrad)"/>
+<rect x="2" y="2" width="1176" height="46" fill="#0B1222"/>
+<line x1="2" y1="48" x2="1178" y2="48" stroke="rgba(255,255,255,0.10)"/>
+<circle cx="30" cy="25" r="5.5" fill="#ff5f56"/>
+<circle cx="50" cy="25" r="5.5" fill="#ffbd2e"/>
+<circle cx="70" cy="25" r="5.5" fill="#27c93f"/>
+<text x="590" y="29" text-anchor="middle" font-size="12" fill="#94A3B8">XVI - % ./42.sh --stats</text>
+<text x="38" y="74" font-size="10" letter-spacing="3" fill="#475569">IDENTITY</text>
+<rect x="36" y="84" width="400" height="228" rx="10" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.45" filter="url(#glow3)"/>
+<rect x="36" y="84" width="400" height="228" rx="10" fill="#0A101F" stroke="rgba(34,211,238,0.35)"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.30s" fill="freeze"/>
+<g transform="translate(62,110)">
+<rect width="64" height="64" rx="14" fill="#030712" stroke="url(#accent)" stroke-width="1.5"/>
+<svg x="13" y="18" width="38" height="27" viewBox="0 0 137.6 96.6" overflow="visible"><g transform="translate(-229.2,-372.7)" fill="#ffffff">
+<polygon points="229.2,443.9 279.9,443.9 279.9,469.3 305.2,469.3 305.2,423.4 254.6,423.4 305.2,372.7 279.9,372.7 229.2,423.4"/>
+<polygon points="316.1,398.1 341.4,372.7 316.1,372.7"/>
+<polygon points="341.4,398.1 316.1,423.4 316.1,448.7 341.4,448.7 341.4,423.4 366.8,398.1 366.8,372.7 341.4,372.7"/>
+<polygon points="366.8,423.4 341.4,448.7 366.8,448.7"/>
+</g></svg>
+</g>
+<!-- 128 - 156 - 178 -->
+<text x="146" y="118" font-size="11" letter-spacing="3" fill="#22D3EE" filter="url(#txtGlow)">42 LAUSANNE</text>
+<text x="146" y="146" font-size="24" font-weight="700" fill="#F8FAFC">Cédric Muller</text>
+<text x="146" y="168" font-size="13" fill="#94A3B8">@cedmulle</text>
+<line x1="62" y1="200" x2="410" y2="200" stroke="rgba(255,255,255,0.10)"/>
+</g>
+
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.57s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="0.57s" fill="freeze"/><text x="62" y="264" font-size="13" textLength="348" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#8F5CF3">Coallition </tspan><tspan fill="rgba(148,163,184,0.35)">............</tspan><tspan fill="#F8FAFC" font-weight="600"> House of Processes</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.45s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="0.45s" fill="freeze"/><text x="62" y="240" font-size="13" textLength="348" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#8F5CF3">Title </tspan><tspan fill="rgba(148,163,184,0.35)">.................</tspan><tspan fill="#F8FAFC" font-weight="600"> Chosen by Voxotron</tspan></text></g>
+<path d="M 50 84 L 46 84 A 10 10 0 0 0 36 94 L 36 98" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.8"/>
+<path d="M 422 84 L 426 84 A 10 10 0 0 1 436 94 L 436 98" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.8"/>
+<path d="M 50 312 L 46 312 A 10 10 0 0 1 36 302 L 36 298" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.8"/>
+<path d="M 422 312 L 426 312 A 10 10 0 0 0 436 302 L 436 298" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.8"/>
+<text x="470" y="91" font-size="13" letter-spacing="2" fill="#22D3EE" filter="url(#txtGlow)">STUDENT.STATS</text>
+<text x="1125" y="91" text-anchor="end" font-size="12" fill="#86ff00" font-weight="700"><tspan>&#9679;</tspan> TRANSCENDER<animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></text>
+<line x1="470" y1="102" x2="1125" y2="102" stroke="rgba(255,255,255,0.10)"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.60s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="0.60s" fill="freeze"/><text x="470" y="130" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#8F5CF3">Projects.Done </tspan><tspan fill="rgba(148,163,184,0.35)">..............................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> 61</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.72s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="0.72s" fill="freeze"/><text x="470" y="151" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#8F5CF3">Evals.Given </tspan><tspan fill="rgba(148,163,184,0.35)">...............................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> 360</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.84s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="0.84s" fill="freeze"/><text x="470" y="172" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#8F5CF3">Evals.Received </tspan><tspan fill="rgba(148,163,184,0.35)">............................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> 311</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.96s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="0.96s" fill="freeze"/><text x="470" y="193" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#8F5CF3">Achievements.Granted </tspan><tspan fill="rgba(148,163,184,0.35)">.......................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> 29</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.08s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.08s" fill="freeze"/><text x="470" y="214" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#8F5CF3">Bonus.Done </tspan><tspan fill="rgba(148,163,184,0.35)">.................................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> 22</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.20s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.20s" fill="freeze"/><text x="470" y="235" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#8F5CF3">Campus.Rank </tspan><tspan fill="rgba(148,163,184,0.35)">............................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> #1</tspan><tspan fill="#94A3B8" font-weight="400">/671</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.37s" fill="freeze"/>
+	<text x="470" y="274" font-size="13" letter-spacing="2" fill="#22D3EE" filter="url(#txtGlow)">LEVEL.PROGRESS</text>
+	<text x="1125" y="274" text-anchor="end" font-size="14" font-weight="700" fill="#F8FAFC">21.90</text>
+	<line x1="470" y1="285" x2="1125" y2="283" stroke="rgba(255,255,255,0.10)"/>
+	<rect x="470" y="300" width="655" height="12" rx="6" fill="#0B1222" stroke="rgba(255,255,255,0.08)"/>
+<g clip-path="url(#barClip)">
+<rect x="470" y="300" width="0" height="12" fill="url(#barGrad)"><animate attributeName="width" values="0;589.5" dur="1.2s" begin="1.52s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".4 0 .2 1"/></rect>
+<rect x="290" y="300" width="160" height="12" fill="url(#shimmer)"><animateTransform attributeName="transform" type="translate" values="0 0;789.5 0" dur="2.5s" begin="2.72s" repeatCount="indefinite"/></rect>
+</g>
+</g>
+</g>
+<rect x="3" y="3" width="1174" height="334" rx="17" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.55" filter="url(#glow8)"/>
+<rect x="3" y="3" width="1174" height="334" rx="17" fill="none" stroke="url(#accent)" stroke-width="1.6"/>
+</svg>
