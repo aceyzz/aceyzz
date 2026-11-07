@@ -45,7 +45,7 @@
 ## `~/events`
 
 ```text
-┌─ HACKATHON ── La Foire du Valais ──────────────── 2025-11 ─┐
+┌─ HACKATHON ── La Foire du Valais ──────────────── 2026-11 ─┐
 │  track      Business Networking                            │
 │  team       5 members                                      │
 │  result     2nd place / 40                                 │
