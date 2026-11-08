@@ -35,7 +35,7 @@
 |:--|:--|:--|:--|:--|
 | `RNCP7` | [IT Architecture Expert - Systems & Networks](https://www.credly.com/org/42/badge/rncp-niveau-7-expert-en-architecture-informatique-a.3) | 42 Network | 2026-04 | 🟢 `VERIFIED` |
 | `RNCP6` | [App Design & Development - Web & Mobile](https://www.credly.com/org/42/badge/rncp-6-concepteur-developpeur-de-solutions-informat.3) | 42 Network | 2027 | 🟡 `ONGOING` |
-| `42-CC` | [Digital Technologies Architect - Common Core](https://42.fr/en/the-program/software-engineer-degree/) | 42 Lausanne | 2024-10 | 🟢 `VERIFIED` |
+| `42-CC` | [Software Engineer - 42 Common Core](https://42.fr/en/the-program/software-engineer-degree/) | 42 Lausanne | 2024-10 | 🟢 `VERIFIED` |
 | `SC-900` | [Security, Compliance & Identity Fundamentals](https://learn.microsoft.com/fr-fr/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification) | Microsoft | 2024-12 | 🟢 `VERIFIED` |
 | `DP-900` | [Azure Data Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification) | Microsoft | 2024-08 | 🟢 `VERIFIED` |
 | `AZ-900` | [Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification) | Microsoft | 2024-08 | 🟢 `VERIFIED` |
